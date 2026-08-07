@@ -7,22 +7,22 @@
 
 ---
 
-## 📊 Stats Atuais (Pós Episódio 10)
+## 📊 Stats Atuais (Pós Episódio 11)
 
 | Stat | Valor | Alvo NG | Alvo NG+ | Notas |
 |------|-------|---------|----------|-------|
-| **Vitality** | **18** | 25-30 → 40-50 | 50-60 | Mantida (precisa upar para Anor Londo) |
+| **Vitality** | **22** | 25-30 → 40-50 | 50-60 | Upou 4 pts Ep.11 (era 18) |
 | **Attunement** | **19** | **19 (5 slots) ✅ COMPLETO** | 23 (6 slots) | **12→14→16→19 Ep.07! 5 SLOTS!** |
-| **Endurance** | **24** | 25-30 → 30-35 | 35-40 | **Upou 6 pts Ep.10 (era 18)** - fast roll nativo com Partizan + Grass Crest |
+| **Endurance** | **24** | 25-30 → 30-35 | 35-40 | Fast roll nativo com Partizan + Grass Crest |
 | **Strength** | **13** | 16 | 16 | **Upou 1 pt Ep.09 (era 12)** - req. Partizan |
 | **Dexterity** | **24** | 40-45 | 45 | **Scaling Dex weapons + Pyro cast speed** - Excelente |
 | Resistance | 10 | 10 | 10 | Inútil |
 | Intelligence | 10 | 10 | 10 | Não usa sorceries |
 | Faith | 8 | 8-10 | 12-15 | Ajuda em coop reduz req. Covenant efetivamente para 5 |
 
-### Soul Level Atual: ~41
-### Almas Gastas: ~150.000+ (Level ups, chama +10, rapier +7, great combustion 5k, Bellowing 20k, Partizan +10 Lightning, etc.)
-### Almas Sobressalentes: Variável (farm Sen's/Blighttown chunks)
+### Soul Level Atual: ~50
+### Almas Gastas: ~180.000+ (Level ups, chama +10, Partizan +10, great combustion 5k, Bellowing 20k, etc.)
+### Almas Sobressalentes: Variável (farm Anor Londo Silver Knights chunks)
 
 ---
 
@@ -43,9 +43,10 @@
 | **Winged Spear** | 14/10 | Dex B | Firelink catacombs | 💰 Pegou Ep.08 | +15 Normal (Lança Dex) |
 | **Black Knight Sword** | 18/10 | Dex B/Str | Black Knight Asylum | 💰 **PEGou Ep.08** (já tinha uma) | +15 Normal / Chaos |
 | **Partizan (Lança)** | 13 Str / 14 Dex | Dex B | Andre (Lightning Ember) | ✅ **MAIN Ep.09 +6 → Ep.10 +10 Lightning** | **+10→+15 (Titanite Slab + Chunks)** |
+| **Silver Knight Spear** | 22 | Dex B | Anor Londo (drop Silver Knight) | 💰 **PEGou Ep.11 (drop Silver Knight)** | +15 Normal (Opção alternativa) |
 
 > **Filosofia:** Uma arma "main" +15 Normal para buff com Power Within / Resins. Armas Fire/Chaos/Lightning para situações específicas.
-> **Decisão Ep.10:** **Partizan +10 Lightning é a main weapon.** "Golpe forte perfuração que vai longe... primeira vez na vida uso essa grande e bela lança." **Titanite Slab obtida Ep.08!** Permite upgrade Partizan +10→+15.
+> **Decisão Ep.11:** **Partizan +10 Lightning permanece main.** Silver Knight Spear obtida como opção alternativa (163 dano, Dex). **Titanite Slab obtida Ep.08!** Permite upgrade Partizan +10→+15.
 
 ### Off Hand / Shields
 | Shield | Stability | Phys Red | Fire Red | Weight | Onde | Status |
@@ -65,10 +66,10 @@
 ### Aquisição por Ordem (Prioridade)
 | Pyromancy | Slots | Fonte | Status | Notas |
 |-----------|-------|-------|--------|-------|
-| **Fireball** | 1 | Inicial (Pyromancer) | ✅ **Equipada** | Básica, bom range |
+| **Fireball** | 1 | Inicial (Pyromancer) | 🔄 **Substituída Ep.11** por Great Chaos Fireball | Básica, bom range |
 | **Combustion** | 1 | Laurentius (pós-resgate) | ✅ **Equipada** | Melee range, stunlock, 16 usos |
 | **Power Within** | 1 | **Corpo Blighttown (Ep.06)** / Quelana | ✅ **Equipada** | +40% dano, -1% HP/s - **ESSENCIAL** |
-| **Great Fireball** | 1 | **Quelana (Ep.07 - 100 almas)** | ✅ **Equipada** | Alto dano, 1 slot |
+| **Great Fireball** | 1 | **Quelana (Ep.07 - 100 almas)** | 🔄 **Substituída Ep.11** por Great Chaos Fireball | Alto dano, 1 slot |
 | **Great Combustion** | 1 | **Quelana (Ep.07 - 5k almas)** | ✅ **Equipada** | Melhor DPS close range |
 | **Great Chaos Fireball** | 1 | **Quelana/Laurentius? (Ep.08)** | ✅ **Equipada** | Fireball + lava pool no chão |
 | **Fire Orb** | 1 | Laurentius (pós-resgate) | ❌ Não tem | 8k almas - caro, similar Great Fireball |
@@ -80,7 +81,7 @@
 | **Toxic Mist** | 1 | **Servo Egghead (Ep.07 - Chaos)** | ✅ **TEM** | Toxic buildup |
 
 ### Attunement Slots - **BUILD COMPLETA: 5 SLOTS**
-| Att | Slots | Piromancies Equipadas (Ep.10) |
+| Att | Slots | Piromancies Equipadas (Ep.11) |
 |-----|-------|------------------------------|
 | 12 | 1 | Fireball |
 | 14 | 3 | Fireball + Combustion + Power Within |
@@ -88,6 +89,8 @@
 | **19** | **5** | **+ Great Combustion** |
 
 **✅ BUILD PYRO/DEX 100% FINALIZADA:** 5 slots = **Great Chaos Fireball + Fireball + Combustion + Great Combustion + Power Within**
+
+> **Nota Ep.11:** Otimizou slots - removeu Fireballs básicas, equipou **Great Chaos Fireball** permanentemente. Slots: Great Chaos Fireball + Fireball + Combustion + Great Combustion + Power Within.
 
 Todas as piromâncias core do jogo equipáveis simultaneamente! **Bellowing Dragoncrest Ring ativo (+20-24% dano).**
 
@@ -134,7 +137,7 @@ Todas as piromâncias core do jogo equipáveis simultaneamente! **Bellowing Drag
 | **Raw** | Base damage alto, sem scaling — Early game only |
 
 > **Estratégia:** Partizan +15 Normal + Charcoal Pine Resin / Gold Pine Resin + Power Within = Dano absurdo.
-> **PRÓXIMO:** Upgrade Partizan +10→+15 usando **TITANITE SLAB** (Stray Demon Ep.08) + Large Titanite Chunks (farm Sen's/Blighttown) → Ascended Flame +5
+> **PRÓXIMO:** Upgrade Partizan +10→+15 usando **TITANITE SLAB** (Stray Demon Ep.08) + Large Titanite Chunks (farm Anor Londo Silver Knights) → Ascended Flame +5
 
 ---
 
@@ -143,7 +146,7 @@ Todas as piromâncias core do jogo equipáveis simultaneamente! **Bellowing Drag
 ### Early Game (Até Bell Gargoyles) — SL 1-25 ✅ **COMPLETO**
 - [x] Dex 12 → 24 (Rapier)
 - [x] Attunement 12→19 (5 slots) ✅ **COMPLETO Ep.07**
-- [x] Vitality 15→18
+- [x] Vitality 15→22
 - [x] Comprar Residence Key, Short Bow, Arrows
 - [ ] Decidir: Matar Undead Merchant? (Uchigatana vs Shop)
 - [x] Resgatar Laurentius (Depths) → Combustion ✅
@@ -153,9 +156,13 @@ Todas as piromâncias core do jogo equipáveis simultaneamente! **Bellowing Drag
 - [x] **Quelana viva + Great Fireball + Great Combustion** ✅ Ep.07
 - [x] **Chaos Covenant + Egghead infection** ✅ Ep.07
 
-### Mid Game (Sen's Fortress → Anor Londo) — SL 41-50 🔜 **ATUAL Ep.11**
-- [ ] **MATAR LAUTREC EM ANOR LONDO** (Black Eye Orb) — Salvar Anastacia + Ring of FAP + FK Soul — **URGENTE**
+### Mid Game (Anor Londo → Lordvessel) — SL 50-60 🔜 **ATUAL Ep.12**
+- [ ] **MATAR LAUTREC EM ANOR LONDO** (Black Eye Orb) — Salvar Anastacia + Ring of FAP + FK Soul — **URGENTE EP.12 INÍCIO**
 - [ ] **REVIVER ANASTACIA** (Firelink) → Kindle fogueira
+- [ ] **ORNSTEIN & SMOUGH** (Boss principal) — Solaire summon + Power Within + pilares
+- [ ] **LORDVESSEL** — Decisão: **Frampt vs Kaathe** (Darkwraith Covenant)
+- [ ] **GIANT BLACKSMITH (ANDRE)** — Partizan +15 (Titanite Slab!), Boss weapons, Lightning upgrade
+- [ ] **GWYNEVERE/GWYNDOLIN** — Lordvessel, Darkmoon Covenant
 - [ ] Vitality 25-30
 - [ ] Endurance 25-30 (já 24 - quase lá!)
 - [ ] Dex 25-30
@@ -167,9 +174,9 @@ Todas as piromâncias core do jogo equipáveis simultaneamente! **Bellowing Drag
 - [ ] **Ricard's Rapier** (Sen's Fortress drop Ep.10) — Opção alternativa
 - [ ] Iaito (Blighttown - pegar no retorno)
 - [ ] Server (Blighttown leech drop) - Opção Curved Greatsword Dex
-- [ ] **Partizan +10→+15** (Titanite Slab + Large Titanite Chunks farm Sen's/Blighttown)
+- [ ] **Partizan +10→+15** (Titanite Slab + Large Titanite Chunks farm Anor Londo Silver Knights)
 
-### Late Game (Até Gwyn) — SL 50-80
+### Late Game (Até Gwyn) — SL 60-80
 - [ ] Attunement 23 (6 slots) → + Fire Tempest / Chaos Storm
 - [ ] Dex 40-45 (soft cap) → **EM PROGRESSO (24/45)**
 - [ ] Vitality 40-50
@@ -185,7 +192,7 @@ Todas as piromâncias core do jogo equipáveis simultaneamente! **Bellowing Drag
 
 ### Consumíveis
 - [ ] **Estus Flask** (+7 max com Fire Keeper Souls) — **Atual: +1 (1 FK Soul Firelink) + 1 pending Anastacia**
-- [ ] **Humanity** (99 max — cura + item discovery + chaos scaling) → **ESTOQUE GRANDE**
+- [ ] **Humanity** (99 max — cura + item discovery + chaos scaling) → **ESTOQUE GRANDE** (10 no contador = max discovery)
 - [ ] **Green Blossom** (Stamina regen)
 - [ ] **Charcoal Pine Resin** (+Fire damage weapon)
 - [ ] **Gold Pine Resin** (+Lightning damage weapon) — Usado em Quelaag
@@ -215,17 +222,19 @@ Todas as piromâncias core do jogo equipáveis simultaneamente! **Bellowing Drag
 - [ ] **Power Within** (Ep.06/07) → **EQUIPADA**
 - [ ] **Egg Vermifuge** (Ep.07) → Cura egghead
 - [ ] **Poison Mist / Toxic Mist** (Ep.07) → Piromancias Chaos
-- [ ] **Black Eye Orb** (Ep.08) → **Invadir Lautrec em Anor Londo (EP.11)**
+- [ ] **Black Eye Orb** (Ep.08) → **Invadir Lautrec em Anor Londo (EP.12 INÍCIO)**
 - [ ] **Peculiar Doll** (Ep.08) → **Painted World Access**
 - [ ] **Rusted Iron Ring** (Ep.08) → Movimento normal em lama
 - [ ] **Crest Shield** (Ep.08) → **Melhor shield magia - Four Kings**
 - [ ] **TITANITE SLAB** (Ep.08 Stray Demon) → **Arma +15**
-- [ ] **Large Titanite Chunks (7+)** (Ep.08/09/10 Leeches/Sen's farm) → Upgrade +10→+11
-- [ ] **Green Titanite Shards** (Ep.08/09/10 Leeches/Sen's farm) → Upgrade +5→+6
+- [ ] **Large Titanite Chunks** (Ep.08/09/10/11 Leeches/Sen's/Anor Londo farm) → Upgrade +10→+11
+- [ ] **Green Titanite Shards** (Ep.08/09/10/11 Leeches/Sen's/Anor Londo farm) → Upgrade +5→+6
 - [ ] **Dragon Scale** (Ep.09 Hydra) → Covenant Path of Dragon / Dragon weapons
 - [ ] **Ring of Steel Protection** (Ep.10 Sen's baú) → Fast roll build
 - [ ] **Slumbering Dragoncrest Ring** (Ep.10 Sen's baú) → Passos silenciosos
 - [ ] **Ricard's Rapier** (Ep.10 drop Ricard) → Opção Dex A
+- [ ] **Silver Knight Spear** (Ep.11 drop Silver Knight) → Opção Dex alternativa
+- [ ] **Siegmeyer Quest** (Anor Londo Ep.11) → Continua
 
 ---
 
@@ -233,18 +242,18 @@ Todas as piromâncias core do jogo equipáveis simultaneamente! **Bellowing Drag
 | Escolha | Deadline | Status | Impacto |
 |---------|----------|--------|---------|
 | **Matar Undead Merchant** | Antes de sair Undead Burg | ❓ Pendente | Perde shop, ganha Uchigatana + Uchi drop |
-| **Lautrec solto** | **Antes de tocar 2ª Bell** | ⚠️ **PASSOU! 2º SINO TOCADO Ep.07** | **Mata Anastacia! Precisa matar Lautrec EM ANOR LONDO (Black Eye Orb)** |
+| **Lautrec solto** | **Antes de tocar 2ª Bell** | ⚠️ **PASSOU! 2º SINO TOCADO Ep.07** | **Mata Anastacia! Precisa matar Lautrec EM ANOR LONDO (Black Eye Orb) EP.12** |
 | **Colocar Lordvessel** | Após O&S | ⏳ Futuro | Fecha Kaathe (Darkwraith) se der para Frampt |
 | **Matar Gwynevere** | Anor Londo | ⏳ Futuro | Fecha Princess Guard, abre Gwyndolin |
 | **Chaos Servant +30** | Antes de Bed of Chaos | 🔜 0/30 Humanity | Abre atalho Lost Izalith + Pyromancies |
 | **Solaire quest** | Antes de Centipede Demon | ⏳ Futuro | Salva Solaire → Sunlight Maggot drop |
 | **Libertar Mestre Piromancia Francesa** | Antes de sair Esgotos | ✅ FEITO EP.05 | Permite upar chama além do normal |
 | **Upgradear Attunement 19** | **Ep.07** | ✅ **FEITO! 5 SLOTS** | Build Pyro completa! |
-| **Usar Black Eye Orb** | Anor Londo | ⏳ **PRÓXIMO EP.11** | Vingança Lautrec + Ring of FAP + FK Soul |
+| **Usar Black Eye Orb** | Anor Londo | ⏳ **PRÓXIMO EP.12 INÍCIO** | Vingança Lautrec + Ring of FAP + FK Soul |
 
 ---
 
-## 📝 Notas de Jogo (Estilo Renato) — Atualizadas Ep.10
+## 📝 Notas de Jogo (Estilo Renato) — Atualizadas Ep.11
 
 > **"Não vou fazer nenhuma palhaçada."** — Sem sequence breaks, sem skip bosses, jogada "honesta"
 >
@@ -292,7 +301,7 @@ Todas as piromâncias core do jogo equipáveis simultaneamente! **Bellowing Drag
 >
 > **"O bom de quando pega Master Key é que você já pega essa Fire Keeper Soul antes de enfrentar a Quelaag... não pegar Master Key no começo dificulta demais, chega a ser desumano."** — **Ep.08 ARREPENDIMENTO**
 >
-> **"Lothrec assassinou nossa Firekeeper... o Black Eye Orb vai servir para invadirmos o mundo do assassino para buscar a vingança."** — **Ep.08**
+> **"Lothrec assassinou nossa Firekeeper... o Black Eye Orb vai servir para invadirmo o mundo do assassino para buscar a vingança."** — **Ep.08**
 >
 > **"Como faz para ir para o Stray Demon? Voltar para Undead Asylum... fingir de ovinho... 30 segundos esperando na posição de implorar."** — **Ep.08 Crow**
 >
@@ -324,33 +333,47 @@ Todas as piromâncias core do jogo equipáveis simultaneamente! **Bellowing Drag
 >
 > **"Nunca passei nessa parte [Hydra] com tanta vantagem... facilidade bem de boa."** — **Ep.09 Pyro + Partizan + Bellowing = OP**
 >
-> **"Great Combustion por cabeça... 350 de dano cada... mudar pra outra combustion quando me confunde."** — **Ep.09/10 Iron Golem strategy**
+> **"Great Combustion por cabeça... 350 de dano cada... mudar pra outra combustion quando me confunde."** — **Ep.09/10/11 Iron Golem/Silver Knights strategy**
 >
-> **"Pessoal também amsterdã é saber onde eu nunca cheguei tão forte nessa área... eu tô com a rodinha lenta."** — **Ep.10 Sen's Fortress com build forte**
+> **"Pessoal também amsterdã é saber onde eu nunca cheguei tão forte nessa área... eu tô com a rodinha lenta."** — **Ep.10/11 Sen's/Anor Londo com build forte**
 >
-> **"Team work... tem que matar um de cada vez o que se capta aqui... jamais quem teria matado dois de uma vez os caras dessa estirpe."** — **Ep.10 Homens-serpente Sen's**
+> **"Team work... tem que matar um de cada vez o que se capta aqui... jamais quem teria matado dois de uma vez os caras dessa estirpe."** — **Ep.10/11 Homens-serpente/Silver Knights**
 >
-> **"Esses caras... são mais fortes do que o normal... mais forte do que entendido... quase não toma ritmo a desgraça."** — **Ep.10 Snake men buffados**
+> **"Esses caras... são mais fortes do que o normal... mais forte do que entendido... quase não toma ritmo a desgraça."** — **Ep.10/11 Snake men/Silver Knights buffados**
 >
 > **"Dusk of Oolacile... Oolacile é o lar dela... bem semelhante a DLC de gelo do Dark Souls 3."** — **Ep.09 Conexão DLC Artorias**
 >
 > **"Ivory Catalyst... aumenta o poder mágico do portador porém você vai sofrer mais dano... 30% a mais."** — **Ep.09 Trade-off catalisador**
 >
-> **"Essa parte é demorada mesmo é complicado... difícil de explorar em tiro da primeira vez que passa."** — **Ep.10 Sen's Fortress exploração completa**
+> **"Essa parte é demorada mesmo é complicado... difícil de explorar em tiro da primeira vez que passa."** — **Ep.10/11 Sen's/Anor Londo exploração**
 >
-> **"No quintal gigantão que abriu o portão pra nós... passagem secreta está explorado já no próximo episódio eu faço o restante da área."** — **Ep.10 Sen's Fortress 100% COMPLETA**
+> **"No quintal gigantão que abriu o portão pra nós... passagem secreta está explorado já no próximo episódio eu faço o restante da área."** — **Ep.11 Anor Londo parte 1 feita**
 >
-> **"Vou precisar de três [Large Titanite Shards]... eu tenho hoje pego dois no início... eu já volto aqui pra deixar mais 10."** — **Ep.10 Farm Large Shards para Partizan +10**
+> **"Vou precisar de mais equip load pra segurar essa lança aí, do cavaleiro de prata... vou investir nisso."** — **Ep.11 Silver Knight Spear precisa mais Endurance**
 >
-> **"Endurance 24... você vai conseguir carregar o Grass Crest Shield, mais a Lançalada, mais a armadura Gold Remedy, mais Crown of Dusk. Fica perfeito. Sem Anel de Ravel."** — **Ep.10 FAST ROLL BUILD COMPLETA!**
+> **"O parceirão, Solaire de Astora, ele fica feliz que a gente chegou aqui... ele vai ajudar na próxima luta."** — **Ep.11 SOLAIRE CONFIRMADO PARA O&S!**
 >
-> **"Meu desachafou de Dark Souls 1 com a ajuda de Iron Tarkus. Foi bem mais fácil."** — **Ep.10 Iron Golem com summon**
+> **"Vou deixar meu sinal... pra ajudar o pessoal nessa área, pra diminuir o tanto de faith, pra entrar no pacto [Warrior of Sunlight]."** — **Ep.11 COOP FARM PARA SUNLIGHT COVENANT**
 >
-> **"Essa fogueira aqui já tá com o Kindle... tá mais forte."** — **Ep.10 Anor Londo fogueira já kindled**
+> **"Ravel great shield 50, eu não vou chegar em 50 nunca... não detalhado dele, mas esse aqui não vai chegar não."** — **Ep.11 Havel's Set NÃO VIÁVEL**
 >
-> **"Da primeira vez que eu cheguei aqui na minha vida eu achei que não tinha como voltar não... fiquei meio desesperado... depois eu descobri que tinha como."** — **Ep.10 Gargoyle transportador volta**
+> **"Essa arma eu vou usar pra transformar em divina... enfrentar catacumbas... pessoal das catacumbas só morre de verdade quando você mata com arma divina."** — **Ep.11 Occult Club → Divine weapon para Catacombs**
 >
-> **"Big Hat Logan... ele agradece... ele é o mestre de magias... vende as magias de Sorcerer mais avançadas que existem."** — **Ep.10 LOGAN LIBERTADO!**
+> **"A melhor estratégia... é que pra trás eu tenho outro cavaleiro... a piromancia, acho que até vai ser melhor, vai ser mais fácil."** — **Ep.11 Pyromancy > Parry vs Silver Knights**
+>
+> **"Morrer, olha, tá fortinho a lança... 300 de durabilidade, caramba, é muito forte essa lança."** — **Ep.11 Partizan +10 = 399 damage!**
+>
+> **"Eu estou ficando meio que impressionado com a facilidade que as piromancias nos dão... não imaginava não, que era desse jeito."** — **Ep.11 Pyro OP em Anor Londo**
+>
+> **"Vou precisar de mais equip load pra segurar essa lança aí, do cavaleiro de prata... vou investir nisso."** — **Ep.11 Precisa mais Endurance para Silver Knight Spear**
+>
+> **"No próximo episódio eu mato [Ornstein & Smough]... e vou trocar de arma."** — **Ep.11 PRÓXIMO: O&S + TROCA DE ARMA!**
+>
+> **"Aqui o Quest Shield é mais aconselhado nessa parte, porque os guardiões da pintura eles podem tirar o seu equilíbrio... a partir do momento você perde o equilíbrio aqui em cima, é muerte."** — **Ep.11 CREST SHIELD ESSENCIAL PARA PAINTING GUARDIANS**
+>
+> **"A coisa mais efetiva pra aumentar o drop rate aqui no Dark Souls, são essas 10 humanidades do contador... mais até do que usar o Covetous Gold Serpent Ring."** — **Ep.11 10 HUMANITY = MAX ITEM DISCOVERY**
+>
+> **"O DS Fix está bugando nessa área... ele está mostrando os ícones dano uma fricada nervosa."** — **Ep.11 DSFix bug em Anor Londo**
 
 ---
 
@@ -365,9 +388,10 @@ Todas as piromâncias core do jogo equipáveis simultaneamente! **Bellowing Drag
 - [[Episódio 08 - Retorno Blighttown Stray Demon Lautrec & Sen's Prep]]
 - [[Episódio 09 - Hydra Dusk & Sen's Fortress Inicio]]
 - [[Episódio 10 - Sen's Fortress Iron Golem Logan & Anor Londo Prep]]
+- [[Episódio 11 - Anor Londo Exploracao Silver Knights Solaire & O&S Prep]]
 - [[ÍNDICE - Guia Dark Souls 1.md]]
 - [[Checklist 100% - Master.md]]
 - [[Roadmap_Episodios_01_02_03_04.canvas]]
 
-*Última atualização: Pós Episódio 10 — **PARTIZAN +10 LIGHTNING + SEN'S 100% + LOGAN LIVRE + IRON GOLEM DOWN + ANOR LONDO CHEGADA + FAST ROLL BUILD***  
-*Próxima revisão: Pós Episódio 11 (Anor Londo, Lautrec Vingança, Ornstein & Smough, Lordvessel) — **MATAR LAUTREC EM ANOR LONDO URGENTE***
+*Última atualização: Pós Episódio 11 — **ANOR LONDO PARTE 1 ✅ + SILVER KNIGHTS FARM + SOLAIRE CONFIRMADO O&S + LAUTREC VINGANÇA PENDENTE EP.12***  
+*Próxima revisão: Pós Episódio 12 (Anor Londo Parte 2, Lautrec Vingança, Ornstein & Smough, Lordvessel) — **MATAR LAUTREC EM ANOR LONDO URGENTE EP.12 INÍCIO***

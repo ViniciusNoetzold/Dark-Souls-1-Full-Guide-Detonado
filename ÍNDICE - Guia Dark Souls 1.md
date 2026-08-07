@@ -21,7 +21,8 @@
 | **08** | [[Episódio 08 - Retorno Blighttown Stray Demon Lautrec & Sen's Prep]] | Blighttown (superior 100%), Firelink, Undead Asylum (return), New Londo | **Stray Demon** | ✅ Completo |
 | **09** | [[Episódio 09 - Hydra Dusk & Sen's Fortress Inicio]] | Darkroot Basin (Hydra), Dusk of Oolacile, Sen's Fortress (entrada/parte inferior) | **Hydra** | ✅ Completo |
 | **10** | [[Episódio 10 - Sen's Fortress Iron Golem Logan & Anor Londo Prep]] | Sen's Fortress (completa), Iron Golem, Big Hat Logan, Anor Londo (chegada) | **Iron Golem** | ✅ Completo |
-| **11** | *Aguardando* | Anor Londo, Lautrec Vingança, Ornstein & Smough, Lordvessel | Ornstein & Smough | ⏳ Pendente |
+| **11** | [[Episódio 11 - Anor Londo Exploracao Silver Knights Solaire & O&S Prep]] | Anor Londo (parte 1: entrada, elevadores, Painting Guardians, Silver Knights, fogueira principal, Solaire) | — (Prep O&S) | ✅ Completo |
+| **12** | *Aguardando* | Anor Londo (parte 2: Lautrec Vingança, Ornstein & Smough, Lordvessel, Gwynevere/Gwyndolin) | **Ornstein & Smough** | ⏳ Pendente |
 | ... | ... | ... | ... | ... |
 
 > **Atualize esta tabela** conforme novos episódios forem processados.
@@ -69,8 +70,9 @@
 | **Server** | 22? | Blighttown (leech drop) | 💰 **PEGou Ep.08** - Curved Greatsword Dex |
 | **Great Scythe** | 16 | Catacombs (drop) | ⏳ Futuro |
 | **Balder Side Sword** | 14 | Balder Knights (drop raro) | ⏳ Farm opcional |
-| **Ricard's Rapier** | 14 | Sen's Fortress | 🔜 **Opção (drop Ricard em Sen's - Ep.10)** |
+| **Ricard's Rapier** | 14 | Sen's Fortress | ✅ **PEGou Ep.10 (drop Ricard)** |
 | **Partizan (Lança)** | 13 Str / 14 Dex | Andre (Lightning Ember) | ✅ **NOVA MAIN Ep.09 +6 Lightning (236 atk)** → **+10 Ep.10** |
+| **Silver Knight Spear** | 22 | Anor Londo (drop Silver Knight) | 🔜 **Opção futura (Anor Londo farm - Ep.11)** |
 
 ### Equipamentos-Chave
 | Slot | Item Atual | Upgrade Alvo |
@@ -78,7 +80,7 @@
 | **Shield** | **Spider Shield (100% phys, peso 13)** / **Crest Shield (magic)** | Silver Knight Shield / Grass Crest Shield |
 | **Pyro Flame** | **Pyromancy Flame +10** | **Ascended +5 (Quelana - DISPONÍVEL)** |
 | **Ring 1** | Tiny Being's Ring / **Ring of Evil Eye** / **Bellowing Dragoncrest** | Havel's Ring / Ring of FAP / Wolf Ring |
-| **Ring 2** | **Rusted Iron Ring** (Ep.08) | Bellowing Dragoncrest / Red Tearstone / Hornet Ring |
+| **Ring 2** | **Rusted Iron Ring** (Ep.08) / **Ring of Steel Protection** (Ep.10) | Bellowing Dragoncrest / Red Tearstone / Hornet Ring |
 | **Armor** | **Shadow Set + Wanderer + Black Hemmed** | Mix leve Dex/Poise |
 
 ---
@@ -96,7 +98,7 @@
 - [x] **Stray Demon** (Ep.08 - Asylum return)
 - [x] **Hydra** (Ep.09 - Darkroot Basin)
 - [x] **Iron Golem** (Ep.10 - Sen's Fortress)
-- [ ] Ornstein & Smough
+- [ ] **Ornstein & Smough** (Próximo Ep.12)
 - [ ] Great Grey Wolf Sif
 - [ ] Four Kings
 - [ ] Seath the Scaleless
@@ -117,11 +119,11 @@
 - [x] **Laurentius** (Firelink/Depths/Blighttown) → Pyromancies ✅ Resgatado, Chama +10, Combustion comprada
 - [ ] **Rickert of Vinheim** (Undead Parish) → Sorceries
 - [x] **Griggs of Vinheim** (Lower Burg/Firelink) → Sorceries / **Bellowing Ring** ✅ Ep.08 (20k almas)
-- [ ] **Big Hat Logan** (Sen's/Archives) → Sorceries — **LIBERTADO Ep.10** → Firelink
+- [x] **Big Hat Logan** (Sen's/Archives) → Sorceries — **LIBERTADO Ep.10** → Firelink
 - [x] **Quelana of Izalith** (Blighttown) → Advanced Pyromancies ✅ Viva Ep.07, Great Fireball + Great Combustion
-- [x] **Siegmeyer of Catarina** (Multiple) → Gesto Honra (Ep.03), ajudado Sen's (Ep.10)
-- [x] **Solaire of Astora** (Multiple) → White Sign Soapstone (Ep.02)
-- [x] **Lautrec of Carim** (Firelink/Anor Londo) → **⚠️ MATOU ANASTACIA Ep.08** — Black Eye Orb obtido, vingança Anor Londo (Ep.11)
+- [x] **Siegmeyer of Catarina** (Multiple) → Gesto Honra (Ep.03), ajudado Sen's (Ep.10), Anor Londo (Ep.11)
+- [x] **Solaire of Astora** (Multiple) → White Sign Soapstone (Ep.02) — **CONFIRMADO PARA O&S EP.12**
+- [x] **Lautrec of Carim** (Firelink/Anor Londo) → **⚠️ MATOU ANASTACIA Ep.08** — Black Eye Orb obtido, vingança Anor Londo (Ep.12)
 - [ ] **Patches the Hyena** (Multiple) → Armadilha Lower Burg (Ep.03)
 - [ ] **Rhea of Thorolund** (Undead Parish/Tomb) → Miracles
 - [ ] **Petrus of Thorolund** (Firelink) → Betrayal
@@ -149,7 +151,8 @@
 - [x] **Blighttown (100% - superior Ep.08 completa)** — Ep.06/07/08
 - [x] **Darkroot Basin (Hydra ✅ Ep.09, Dusk resgatada)** — Dusk of Oolacile
 - [x] **Sen's Fortress (COMPLETA Ep.10)** — Iron Golem, Logan libertado, Ricard's Rapier
-- [ ] Anor Londo
+- [x] **Anor Londo (Parte 1 ✅ Ep.11)** — Entrada, elevadores, Painting Guardians, Silver Knights, fogueira principal, Solaire
+- [ ] Anor Londo (Parte 2 - Ornstein & Smough, Lordvessel, Gwynevere/Gwyndolin)
 - [x] **Painted World of Ariamis** (Peculiar Doll ✅ Ep.08) — ACESSÍVEL
 - [ ] New Londo Ruins (iniciado via esgotos Ep.05)
 - [ ] The Catacombs
@@ -227,6 +230,7 @@ E:\Guia DS1\
 │   ├── Episódio 08 - Retorno Blighttown Stray Demon Lautrec & Sen's Prep.md
 │   ├── Episódio 09 - Hydra Dusk & Sen's Fortress Inicio.md
 │   ├── Episódio 10 - Sen's Fortress Iron Golem Logan & Anor Londo Prep.md
+│   ├── Episódio 11 - Anor Londo Exploracao Silver Knights Solaire & O&S Prep.md
 │   └── ...
 ├── 📁 Referências/
 │   ├── NPCs e Questlines.md
@@ -240,5 +244,5 @@ E:\Guia DS1\
 
 ---
 
-*Última atualização: Episódio 10 processado*  
-*Próximo: Episódio 11 — Anor Londo, Lautrec Vingança, Ornstein & Smough, Lordvessel*
+*Última atualização: Episódio 11 processado*  
+*Próximo: Episódio 12 — Anor Londo Parte 2, Lautrec Vingança, Ornstein & Smough, Lordvessel*

@@ -62,7 +62,7 @@
 		{"id":"e_ep8_map_asylum","fromNode":"ep8","fromSide":"top","toNode":"map_asylum","toSide":"bottom","color":"5"},
 		{"id":"e_ep8_map_blighttown","fromNode":"ep8","fromSide":"top","toNode":"map_blighttown","toSide":"bottom","color":"5"},
 		{"id":"e_ep8_map_firelink","fromNode":"ep8","fromSide":"top","toNode":"map_firelink","toSide":"bottom","color":"5"},
-		{"id":"e_ep9_future","fromNode":"ep9","fromSide":"right","toNode":"future_ep10","toSide":"left","color":"6","label":""},
+		{"id":"e_ep9_future","fromNode":"ep9","fromSide":"right","toNode":"future_ep10","toSide":"left","color":"6"},
 		{"id":"e_ep9_map_sens","fromNode":"ep9","fromSide":"top","toNode":"map_sens","toSide":"bottom","color":"4"},
 		{"id":"e_ep9_map_basin","fromNode":"ep9","fromSide":"top","toNode":"map_basin","toSide":"bottom","color":"4"}
 	],

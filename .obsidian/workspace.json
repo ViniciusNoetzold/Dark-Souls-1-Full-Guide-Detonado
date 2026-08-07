@@ -11,10 +11,14 @@
             "id": "b68f6d87e4ca2b9d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização de diagrama de grafo"
+              "type": "markdown",
+              "state": {
+                "file": "Build Reference - Evil Gilberton.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Build Reference - Evil Gilberton"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Build Reference - Evil Gilberton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Build Reference - Evil Gilberton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Build Reference - Evil Gilberton.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,14 +190,15 @@
   },
   "active": "b68f6d87e4ca2b9d",
   "lastOpenFiles": [
-    "Episódio 10 - Sen's Fortress Iron Golem Logan & Anor Londo Prep.md",
+    "Episódio 11 - Anor Londo Exploracao Silver Knights Solaire & O&S Prep.md",
     "ÍNDICE - Guia Dark Souls 1.md",
+    "Build Reference - Evil Gilberton.md",
+    "Roadmap_Episodios_01_02_03_04.canvas",
+    "Episódio 10 - Sen's Fortress Iron Golem Logan & Anor Londo Prep.md",
     "Episódio 09 - Hydra Dusk Sen's Fortress Iron Golem.md",
     "Episódio 09 - Hydra Dusk & Sen's Fortress Inicio.md",
     "Episódio 08 - Retorno Blighttown Stray Demon Lautrec & Sen's Prep.md",
-    "Roadmap_Episodios_01_02_03_04.canvas",
     "World map-Dark-Souls-Map-1940x1931.png",
-    "Build Reference - Evil Gilberton.md",
     "Episódio 07 - Quelaag Ceaseless Discharge & Chaos Covenant.md",
     "Episódio 06 - Blighttown Exploração & Preparação Quelaag.md",
     "Maps/preview_14_Painted_World.jpg",
