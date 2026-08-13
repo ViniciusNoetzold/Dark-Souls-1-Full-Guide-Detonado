@@ -22,7 +22,11 @@
 | **09** | [[Episódio 09 - Hydra Dusk & Sen's Fortress Inicio]] | Darkroot Basin (Hydra), Dusk of Oolacile, Sen's Fortress (entrada/parte inferior) | **Hydra** | ✅ Completo |
 | **10** | [[Episódio 10 - Sen's Fortress Iron Golem Logan & Anor Londo Prep]] | Sen's Fortress (completa), Iron Golem, Big Hat Logan, Anor Londo (chegada) | **Iron Golem** | ✅ Completo |
 | **11** | [[Episódio 11 - Anor Londo Exploracao Silver Knights Solaire & O&S Prep]] | Anor Londo (parte 1: entrada, elevadores, Painting Guardians, Silver Knights, fogueira principal, Solaire) | — (Prep O&S) | ✅ Completo |
-| **12** | *Aguardando* | Anor Londo (parte 2: Lautrec Vingança, Ornstein & Smough, Lordvessel, Gwynevere/Gwyndolin) | **Ornstein & Smough** | ⏳ Pendente |
+|| **12** | [[Episódio 12 - Ornstein e Smough + Coop Mais Que Gostoso]] | Anor Londo (parte 2: Lautrec Vingança, Ornstein & Smough, Lordvessel, Gwynevere/Gwyndolin) | **Ornstein & Smough** | � ✅ Completo |
+ || **13** | [[Episódios/Episódio 13 - Queilaag Furysword e Great Grey Wolf Sif]] | Darkroot Garden (exploração completa), Darkroot Basin revisitado | **Great Grey Wolf Sif** | ��� � � ✅ Completo |
+ || **14** | [[Episódios/Episódio 14 - Arma no Máximo, Melhor Anel e Cebola Venenosa]] | New Londo Ruins (exploração inicial), Blighttown (visita à Shiva), Darkroot Basin (Costa Negra) | Nenhum | ����� ��� ��� � ��� � � ✅ Completo |
+ || **15** | [[Episódios/Episódio 15 - QU4TRO REIS [FOUR KINGS] E A SERPENTE DO ABISMO]] | New Londo Ruins (Four Kings), Duke's Archives (Crystal Knight, Broken Pendant) | **Four Kings**, **Crystal Golem** | ��������� ������� ������� ����� ������� ����� ����� ��� ������� ����� ����� ��� ����� ��� ��� � ������� ����� ����� ��� ����� ��� ��� � ����� ��� ��� � ��� � � ✅ Completo |
+ || **16** | [[Episódios/Episódio 16 - ITEM SUPER SECRETO, FILHA DO CEBOLA E FARM DE ALMA C/ MIMIC HELM]] | Duke's Archives (exploração completa, Tower Giant Door Key, Soul of a Brave Warrior, Mimic Helm, símbolo de avareza, libertar Big Hat Logan e Sieglinde) | Nenhum (foco em quests e farm) | ����������� ��������� ��������� ������� ��������� ������� ������� ����� ��������� ������� ������� ����� ��������� ������� ������� ����� ������� ����� ����� ��� ��������� ������� ������� ����� ������� ����� ����� ��� ������� ����� ����� ��� ������� ����� ����� ��� ����� ��� ��� � ��������� ������� ������� ����� ������� ����� ����� ��� ������� ����� ����� ��� ������� ����� ����� ��� ����� ��� ��� � ������� ����� ����� ��� ����� ��� ��� � ����� ��� ��� � ����� ��� ��� � ��� � � ✅ Completo |
 | ... | ... | ... | ... | ... |
 
 > **Atualize esta tabela** conforme novos episódios forem processados.
@@ -243,6 +247,5 @@ E:\Guia DS1\
 ```
 
 ---
-
-*Última atualização: Episódio 11 processado*  
-*Próximo: Episódio 12 — Anor Londo Parte 2, Lautrec Vingança, Ornstein & Smough, Lordvessel*
+*Última atualização: Pós Episódio 13 — QUELAAG FURYSWORD + GREAT GREY WOLF SIF + FOREST HUNTER COVENANT  
+*Próximo: Episódio 15 — Four Kings em New Londo Ruins, Tomb of Giants ou Catacumbas (plano de ataque)

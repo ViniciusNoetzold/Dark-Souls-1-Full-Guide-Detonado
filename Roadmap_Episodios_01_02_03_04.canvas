@@ -1,70 +1,611 @@
 {
-	"nodes":[
-		{"id":"map_asylum","type":"file","file":"Maps/preview_Northern_AsylumMapV1.jpg","x":0,"y":-2200,"width":428,"height":600},
-		{"id":"map_firelink","type":"file","file":"Maps/preview_FirelinkShrineMap.jpg","x":900,"y":-2200,"width":419,"height":600},
-		{"id":"map_burg","type":"file","file":"Maps/preview_Undead_BurgMapV1.jpg","x":1800,"y":-2200,"width":490,"height":600},
-		{"id":"map_parish","type":"file","file":"Maps/preview_Undead_Parish_Map.jpg","x":2700,"y":-2200,"width":567,"height":600},
-		{"id":"map_depths","type":"file","file":"Maps/preview_DepthsMap.png","x":3600,"y":-2200,"width":799,"height":549},
-		{"id":"map_blighttown","type":"file","file":"Maps/preview_9_Blighttown_Swamp.png","x":4500,"y":-2200,"width":800,"height":315},
-		{"id":"map_sens","type":"file","file":"Maps/preview_Sen's_Fortress.png","x":5400,"y":-2200,"width":607,"height":600},
-		{"id":"map_anor_londo","type":"file","file":"Maps/preview_12_Anor_Londo.jpg","x":6300,"y":-2200,"width":800,"height":451},
-		{"id":"map_anor_castle","type":"file","file":"Maps/preview_13_Anor_Londo_Castle.jpg","x":7200,"y":-2200,"width":800,"height":518},
-		{"id":"map_garden","type":"file","file":"Maps/preview_Gardin.jpg","x":0,"y":-1400,"width":800,"height":512},
-		{"id":"map_basin","type":"file","file":"Maps/preview_Basin.jpg","x":900,"y":-1400,"width":733,"height":600},
-		{"id":"map_newlondo","type":"file","file":"Maps/preview_NewLondo_map.jpg","x":1800,"y":-1400,"width":800,"height":492},
-		{"id":"map_catacombs","type":"file","file":"Maps/preview_23_The_Catacombs_CORRECTED.jpg","x":2700,"y":-1400,"width":799,"height":422},
-		{"id":"map_tomb","type":"file","file":"Maps/preview_24_Tomb_of_the_Giants.jpg","x":3600,"y":-1400,"width":429,"height":600},
-		{"id":"map_demon_ruins","type":"file","file":"Maps/preview_Demon_Ruins29.jpg","x":4500,"y":-1400,"width":799,"height":450},
-		{"id":"map_izalith","type":"file","file":"Maps/preview_20_Lost_Izalith.jpg","x":5400,"y":-1400,"width":513,"height":600},
-		{"id":"map_painted","type":"file","file":"Maps/preview_14_Painted_World.jpg","x":6300,"y":-1400,"width":800,"height":304},
-		{"id":"map_tda","type":"file","file":"Maps/preview_TDA_Main_Hall.png","x":0,"y":-600,"width":655,"height":600},
-		{"id":"map_hollow","type":"file","file":"Maps/preview_17_Great_Hollow.jpg","x":1800,"y":-600,"width":800,"height":518},
-		{"id":"map_ash","type":"file","file":"Maps/preview_18_Ash_Lake.jpg","x":2700,"y":-600,"width":458,"height":600},
-		{"id":"ep1","text":"# Episódio 01\nUndead Asylum → Firelink Shrine\n→ Undead Burg (início)\n\n**Conquistas:**\n- Residence Key\n- Caduceus Kite Shield\n- Rapier\n- Fire Keeper Soul\n- Estus +10\n- Level 2 (Dex 12)\n\n**Build:** Pyro/Dex - Evil Gilberton","type":"text","x":0,"y":200,"width":400,"height":500,"color":"2"},
-		{"id":"ep2","text":"# Episódio 02\nUndead Parish → Taurus Demon\n→ Drake Sword Farm\n\n**Conquistas:**\n- Black Knight Sword (x2)\n- Black Knight Great Sword\n- Titanite Chunk (x3)\n- Blue Tearstone Ring\n- Gold Pine Resin\n- White Sign Soapstone (Solaire)\n- Drake Sword\n- ~8000 almas\n- Level 4 (Dex 14 → 16)\n\n**Build:** Pyro/Dex - Evil Gilberton","type":"text","x":900,"y":200,"width":400,"height":500,"color":"1"},
-		{"id":"ep3","text":"# Episódio 03\nLower Undead Burg → Capra Demon\n→ Beatrice Quest\n\n**Conquistas:**\n- Siegmeyer libertado (gesto Honra)\n- Lautrec libertado (Mistake)\n- Beatrice summonada\n- Key to Depths (drop Capra)\n- Basement Key\n- Titanite Shard/Chunk\n- ~26k almas\n- Level ~9-10 (Dex 14, End 14)\n- Cimitarra pronta para upar\n\n**Build:** Pyro/Dex - Evil Gilberton","type":"text","x":1800,"y":200,"width":400,"height":500,"color":"4"},
-		{"id":"ep4","text":"# Episódio 04\nDepths → Gaping Dragon → Bell Gargoyles\n→ Primeiro Sino Tocado\n\n**Conquistas:**\n- Pedra de Purificação\n- Humanidade Gêmea\n- Catalisador de Mago/Milagre\n- Armadura de Caçador de Couro/Oeste Child\n- Escudo com estabilidade 51\n- Arma upgradeada (161 → 172 ataque)\n- Key to Depths usada\n- Primeiro sino tocado (Bell Gargoyles)\n- Level ~22 (Vit 14→?, End 14→?, Dex 19)\n- ~20k almas utilizadas para upar stats\n\n**Build:** Pyro/Dex evolvida para Qualidade","type":"text","x":2700,"y":200,"width":400,"height":500,"color":"5"},
-		{"id":"ep5","text":"# Episódio 05\nCapra Demon & Esgotos\n\n**Conquistas:**\n- Derrotou Capra Demon\n- Explorou esgotos\n- Escudo de aranha (100% redução dano físico)\n- Chave dos esgotos/profundezas\n- Upgrado chama piromântica\n- Level ~24 (Vit 15, End 15, Dex 23)\n- ~50k almas\n- Ajudou 4 pessoas online (reduz req. Fé Covenant)\n\n**Build:** Pyro/Dex - Sobrevivência + Destreza","type":"text","x":3600,"y":200,"width":400,"height":500,"color":"4"},
-		{"id":"ep6","text":"# Episódio 06\nBlighttown Exploração & Preparação\n→ Firelink / Parish / Esgotos\n\n**Conquistas:**\n- Chama Piromântica +10\n- Rapier +7\n- Combustion (Laurentius)\n- Power Within\n- Shadow Set / Eagle Shield / Ring of Evil Eye\n- Level 25 (Dex 24)\n\n**⚠️ CRÍTICO:**\nUpar Attunement 12→14 (2 slots) obrigatório para Quelaag.\n\n**Build:** Pyro/Dex - Piromancia Melee","type":"text","x":4500,"y":200,"width":400,"height":500,"color":"3"},
-		{"id":"ep7","text":"# Episódio 07\nQuelaag, Ceaseless Discharge & Chaos Covenant\n→ Quelaag's Domain / Demon Ruins\n\n**Conquistas:**\n- 2º Sino Tocado ✅\n- Quelaag & Ceaseless mortos\n- Great Fireball & Great Combustion\n- Chaos Covenant + Egghead infection\n- Black Hemmed Set (Robe da Morte)\n- Level 30+ (Att 19 = 5 slots completados)\n\n**⚠️ ALERTA CRÍTICO EP.08:**\nLAUTREC SOLTO! Matar Lautrec no início do Ep.08 para salvar Anastacia (Ring of FAP + FK Soul).\n\n**Build:** Pyro/Dex - Core Completa!","type":"text","x":5400,"y":200,"width":400,"height":500,"color":"1"},
-		{"id":"ep8","text":"# Episódio 08\nRetorno Asylum & Blighttown Superior\n→ Firelink\n\n**Conquistas:**\n- Stray Demon Morto (Titanite SLAB!)\n- Bellowing Dragoncrest Ring (Dano Pyro)\n- Crest Shield & Rusted Iron Ring\n- Peculiar Doll (Painted World acessível)\n- Farm: 7 Large Titanite Chunks\n- Lautrec matou Anastacia (Black Eye Orb pego)\n\n**⚠️ ALERTA CRÍTICO EP.09:**\nVingança! Usar Black Eye Orb em Anor Londo, salvar Anastacia e fazer upgrade da nova arma para +15!\n\n**Build:** Bellowing Ring equipado (Dano Massivo)","type":"text","x":6300,"y":200,"width":500,"height":520,"color":"5"},
-		{"id":"ep9","text":"# Episódio 09\nHydra, Dusk, Sen's Fortress & Iron Golem\n→ Darkroot Basin / Sen's Fortress\n\n**Conquistas:**\n- **Nova Arma:** Partizan +6 Lightning (236 atk)\n- Hydra & Iron Golem Mortos\n- Dusk de Oolacile Resgatada (Ivory Catalyst)\n- Sen's Fortress 100% Completa\n\n**⚠️ ALERTA CRÍTICO EP.10:**\nUsar Black Eye Orb em Anor Londo para matar Lautrec e reviver Anastacia antes do O&S!\n\n**Build:** Partizan + Lightning + Pyro 5 Slots","type":"text","x":7200,"y":200,"width":400,"height":550,"color":"4"},
-		{"id":"build-ref","text":"Build Reference\n- SL 38-40 | Vit 18 | Str 13 | End 18 | Dex 24 | Att 19 (5 slots)\n- **NOVA MAIN:** Partizan +6 Lightning (236 atk)\n- Crest Shield / Bellowing Ring / Rusted Iron Ring\n- Pyro: Great Chaos Fireball, Fireball, Comb, Great Comb, PW\n- Itens Chave: Titanite Slab, Black Eye Orb\n- ⚠️ URGENTE EP.10: Usar Black Eye Orb em Anor Londo!","type":"text","x":-600,"y":200,"width":400,"height":450,"color":"3"},
-		{"id":"checklist","text":"100% Checklist\n- Areas: 18/22 (Sen's e Basin Completos)\n- Bosses: 9/16 (+Hydra, +Iron Golem)\n- NPCs: Dusk Resgatada!\n- Covenants: 2/9\n- FK Souls: 2/7\n- 2º Sino: ☑️ Tocado\n- Progress: Anor Londo Acessível","type":"text","x":-600,"y":-400,"width":400,"height":450,"color":"4"},
-		{"id":"map_crystal","type":"file","file":"Maps/preview_16_Crystal_Cave.jpg","x":1033,"y":-863,"width":534,"height":912},
-		{"id":"future_ep10","text":"# FUTURO: Episódio 10\nAnor Londo, Ornstein & Smough e Vingança\n\n*Aguardando processamento...*","type":"text","x":8100,"y":200,"width":400,"height":500,"color":"6"}
-	],
-	"edges":[
-		{"id":"e_ep1_ep2","fromNode":"ep1","fromSide":"right","toNode":"ep2","toSide":"left","color":"6"},
-		{"id":"e_ep2_ep3","fromNode":"ep2","fromSide":"right","toNode":"ep3","toSide":"left","color":"6"},
-		{"id":"e_ep3_ep4","fromNode":"ep3","fromSide":"right","toNode":"ep4","toSide":"left","color":"6"},
-		{"id":"e_ep4_ep5","fromNode":"ep4","fromSide":"right","toNode":"ep5","toSide":"left","color":"6"},
-		{"id":"e_ref_ep1","fromNode":"build-ref","fromSide":"bottom","toNode":"ep1","toSide":"top","color":"8"},
-		{"id":"e_ref_ep5","fromNode":"ep1","fromSide":"top","toNode":"checklist","toSide":"bottom","color":"8"},
-		{"id":"e_ep1_map_asylum","fromNode":"ep1","fromSide":"top","toNode":"map_asylum","toSide":"bottom","color":"2"},
-		{"id":"e_ep1_map_firelink","fromNode":"ep1","fromSide":"top","toNode":"map_firelink","toSide":"bottom","color":"2"},
-		{"id":"e_ep1_map_burg","fromNode":"ep1","fromSide":"top","toNode":"map_burg","toSide":"bottom","color":"2"},
-		{"id":"e_ep2_map_parish","fromNode":"ep2","fromSide":"top","toNode":"map_parish","toSide":"bottom","color":"1"},
-		{"id":"e_ep3_map_burg","fromNode":"ep3","fromSide":"top","toNode":"map_burg","toSide":"bottom","color":"4"},
-		{"id":"e_ep4_map_depths","fromNode":"ep4","fromSide":"top","toNode":"map_depths","toSide":"bottom","color":"5"},
-		{"id":"e_ep4_map_parish","fromNode":"ep4","fromSide":"top","toNode":"map_parish","toSide":"bottom","color":"5"},
-		{"id":"e_ep5_map_depths","fromNode":"ep5","fromSide":"top","toNode":"map_depths","toSide":"bottom","color":"4"},
-		{"id":"e_dep_ep3_ep4","fromNode":"ep3","fromSide":"bottom","toNode":"ep4","toSide":"bottom","color":"3","label":"Key to Depths"},
-		{"id":"e_ep5_future","fromNode":"ep5","fromSide":"right","toNode":"ep6","toSide":"left","color":"6"},
-		{"id":"e_ep6_future","fromNode":"ep6","fromSide":"right","toNode":"ep7","toSide":"left","color":"6"},
-		{"id":"e_ep6_map_blighttown","fromNode":"ep6","fromSide":"top","toNode":"map_blighttown","toSide":"bottom","color":"3"},
-		{"id":"e_ep6_map_depths","fromNode":"ep6","fromSide":"top","toNode":"map_depths","toSide":"bottom","color":"3"},
-		{"id":"e_ep6_map_firelink","fromNode":"ep6","fromSide":"top","toNode":"map_firelink","toSide":"bottom","color":"3"},
-		{"id":"e_ep6_map_parish","fromNode":"ep6","fromSide":"top","toNode":"map_parish","toSide":"bottom","color":"3"},
-		{"id":"e_ep7_map_blighttown","fromNode":"ep7","fromSide":"top","toNode":"map_blighttown","toSide":"bottom","color":"1"},
-		{"id":"e_ep7_future","fromNode":"ep7","fromSide":"right","toNode":"ep8","toSide":"left","color":"6"},
-		{"id":"e_ep8_future","fromNode":"ep8","fromSide":"right","toNode":"ep9","toSide":"left","color":"6"},
-		{"id":"e_ep8_map_asylum","fromNode":"ep8","fromSide":"top","toNode":"map_asylum","toSide":"bottom","color":"5"},
-		{"id":"e_ep8_map_blighttown","fromNode":"ep8","fromSide":"top","toNode":"map_blighttown","toSide":"bottom","color":"5"},
-		{"id":"e_ep8_map_firelink","fromNode":"ep8","fromSide":"top","toNode":"map_firelink","toSide":"bottom","color":"5"},
-		{"id":"e_ep9_future","fromNode":"ep9","fromSide":"right","toNode":"future_ep10","toSide":"left","color":"6"},
-		{"id":"e_ep9_map_sens","fromNode":"ep9","fromSide":"top","toNode":"map_sens","toSide":"bottom","color":"4"},
-		{"id":"e_ep9_map_basin","fromNode":"ep9","fromSide":"top","toNode":"map_basin","toSide":"bottom","color":"4"}
-	],
-	"scale":0.8
+  "nodes": [
+    {
+      "id": "map_asylum",
+      "type": "file",
+      "file": "Maps/preview_Northern_AsylumMapV1.jpg",
+      "x": 0,
+      "y": -2200,
+      "width": 428,
+      "height": 600
+    },
+    {
+      "id": "map_firelink",
+      "type": "file",
+      "file": "Maps/preview_FirelinkShrineMap.jpg",
+      "x": 900,
+      "y": -2200,
+      "width": 419,
+      "height": 600
+    },
+    {
+      "id": "map_burg",
+      "type": "file",
+      "file": "Maps/preview_Undead_BurgMapV1.jpg",
+      "x": 1800,
+      "y": -2200,
+      "width": 490,
+      "height": 600
+    },
+    {
+      "id": "map_parish",
+      "type": "file",
+      "file": "Maps/preview_Undead_Parish_Map.jpg",
+      "x": 2700,
+      "y": -2200,
+      "width": 567,
+      "height": 600
+    },
+    {
+      "id": "map_depths",
+      "type": "file",
+      "file": "Maps/preview_DepthsMap.png",
+      "x": 3600,
+      "y": -2200,
+      "width": 799,
+      "height": 549
+    },
+    {
+      "id": "map_blighttown",
+      "type": "file",
+      "file": "Maps/preview_9_Blighttown_Swamp.png",
+      "x": 4500,
+      "y": -2200,
+      "width": 800,
+      "height": 315
+    },
+    {
+      "id": "map_sens",
+      "type": "file",
+      "file": "Maps/preview_Sen's_Fortress.png",
+      "x": 5400,
+      "y": -2200,
+      "width": 607,
+      "height": 600
+    },
+    {
+      "id": "map_anor_londo",
+      "type": "file",
+      "file": "Maps/preview_12_Anor_Londo.jpg",
+      "x": 6300,
+      "y": -2200,
+      "width": 800,
+      "height": 451
+    },
+    {
+      "id": "map_anor_castle",
+      "type": "file",
+      "file": "Maps/preview_13_Anor_Londo_Castle.jpg",
+      "x": 7200,
+      "y": -2200,
+      "width": 800,
+      "height": 518
+    },
+    {
+      "id": "map_garden",
+      "type": "file",
+      "file": "Maps/preview_Gardin.jpg",
+      "x": 0,
+      "y": -1400,
+      "width": 800,
+      "height": 512
+    },
+    {
+      "id": "map_basin",
+      "type": "file",
+      "file": "Maps/preview_Basin.jpg",
+      "x": 900,
+      "y": -1400,
+      "width": 733,
+      "height": 600
+    },
+    {
+      "id": "map_newlondo",
+      "type": "file",
+      "file": "Maps/preview_NewLondo_map.jpg",
+      "x": 1800,
+      "y": -1400,
+      "width": 800,
+      "height": 492
+    },
+    {
+      "id": "map_catacombs",
+      "type": "file",
+      "file": "Maps/preview_23_The_Catacombs_CORRECTED.jpg",
+      "x": 2700,
+      "y": -1400,
+      "width": 799,
+      "height": 422
+    },
+    {
+      "id": "map_tomb",
+      "type": "file",
+      "file": "Maps/preview_24_Tomb_of_the_Giants.jpg",
+      "x": 3600,
+      "y": -1400,
+      "width": 429,
+      "height": 600
+    },
+    {
+      "id": "map_demon_ruins",
+      "type": "file",
+      "file": "Maps/preview_Demon_Ruins29.jpg",
+      "x": 4500,
+      "y": -1400,
+      "width": 799,
+      "height": 450
+    },
+    {
+      "id": "map_izalith",
+      "type": "file",
+      "file": "Maps/preview_20_Lost_Izalith.jpg",
+      "x": 5400,
+      "y": -1400,
+      "width": 513,
+      "height": 600
+    },
+    {
+      "id": "map_painted",
+      "type": "file",
+      "file": "Maps/preview_14_Painted_World.jpg",
+      "x": 6300,
+      "y": -1400,
+      "width": 800,
+      "height": 304
+    },
+    {
+      "id": "map_tda",
+      "type": "file",
+      "file": "Maps/preview_TDA_Main_Hall.png",
+      "x": 0,
+      "y": -600,
+      "width": 655,
+      "height": 600
+    },
+    {
+      "id": "map_hollow",
+      "type": "file",
+      "file": "Maps/preview_17_Great_Hollow.jpg",
+      "x": 1800,
+      "y": -600,
+      "width": 800,
+      "height": 518
+    },
+    {
+      "id": "map_ash",
+      "type": "file",
+      "file": "Maps/preview_18_Ash_Lake.jpg",
+      "x": 2700,
+      "y": -600,
+      "width": 458,
+      "height": 600
+    },
+    {
+      "id": "ep1",
+      "text": "# Episódio 01\nUndead Asylum → Firelink Shrine\n→ Undead Burg (início)\n\n**Conquistas:**\n- Residence Key\n- Caduceus Kite Shield\n- Rapier\n- Fire Keeper Soul\n- Estus +10\n- Level 2 (Dex 12)\n\n**Build:** Pyro/Dex - Evil Gilberton",
+      "type": "text",
+      "x": 0,
+      "y": 200,
+      "width": 400,
+      "height": 500,
+      "color": "2"
+    },
+    {
+      "id": "ep2",
+      "text": "# Episódio 02\nUndead Parish → Taurus Demon\n→ Drake Sword Farm\n\n**Conquistas:**\n- Black Knight Sword (x2)\n- Black Knight Great Sword\n- Titanite Chunk (x3)\n- Blue Tearstone Ring\n- Gold Pine Resin\n- White Sign Soapstone (Solaire)\n- Drake Sword\n- ~8000 almas\n- Level 4 (Dex 14 → 16)\n\n**Build:** Pyro/Dex - Evil Gilberton",
+      "type": "text",
+      "x": 900,
+      "y": 200,
+      "width": 400,
+      "height": 500,
+      "color": "1"
+    },
+    {
+      "id": "ep3",
+      "text": "# Episódio 03\nLower Undead Burg → Capra Demon\n→ Beatrice Quest\n\n**Conquistas:**\n- Siegmeyer libertado (gesto Honra)\n- Lautrec libertado (Mistake)\n- Beatrice summonada\n- Key to Depths (drop Capra)\n- Basement Key\n- Titanite Shard/Chunk\n- ~26k almas\n- Level ~9-10 (Dex 14, End 14)\n- Cimitarra pronta para upar\n\n**Build:** Pyro/Dex - Evil Gilberton",
+      "type": "text",
+      "x": 1800,
+      "y": 200,
+      "width": 400,
+      "height": 500,
+      "color": "4"
+    },
+    {
+      "id": "ep4",
+      "text": "# Episódio 04\nDepths → Gaping Dragon → Bell Gargoyles\n→ Primeiro Sino Tocado\n\n**Conquistas:**\n- Pedra de Purificação\n- Humanidade Gêmea\n- Catalisador de Mago/Milagre\n- Armadura de Caçador de Couro/Oeste Child\n- Escudo com estabilidade 51\n- Arma upgradeada (161 → 172 ataque)\n- Key to Depths usada\n- Primeiro sino tocado (Bell Gargoyles)\n- Level ~22 (Vit 14→?, End 14→?, Dex 19)\n- ~20k almas utilizadas para upar stats\n\n**Build:** Pyro/Dex evolvida para Qualidade",
+      "type": "text",
+      "x": 2700,
+      "y": 200,
+      "width": 400,
+      "height": 500,
+      "color": "5"
+    },
+    {
+      "id": "ep5",
+      "text": "# Episódio 05\nCapra Demon & Esgotos\n\n**Conquistas:**\n- Derrotou Capra Demon\n- Explorou esgotos\n- Escudo de aranha (100% redução dano físico)\n- Chave dos esgotos/profundezas\n- Upgrado chama piromântica\n- Level ~24 (Vit 15, End 15, Dex 23)\n- ~50k almas\n- Ajudou 4 pessoas online (reduz req. Fé Covenant)\n\n**Build:** Pyro/Dex - Sobrevivência + Destreza",
+      "type": "text",
+      "x": 3600,
+      "y": 200,
+      "width": 400,
+      "height": 500,
+      "color": "4"
+    },
+    {
+      "id": "ep6",
+      "text": "# Episódio 06\nBlighttown Exploração & Preparação\n→ Firelink / Parish / Esgotos\n\n**Conquistas:**\n- Chama Piromântica +10\n- Rapier +7\n- Combustion (Laurentius)\n- Power Within\n- Shadow Set / Eagle Shield / Ring of Evil Eye\n- Level 25 (Dex 24)\n\n**⚠️ CRÍTICO:**\nUpar Attunement 12→14 (2 slots) obrigatório para Quelaag.\n\n**Build:** Pyro/Dex - Piromancia Melee",
+      "type": "text",
+      "x": 4500,
+      "y": 200,
+      "width": 400,
+      "height": 500,
+      "color": "3"
+    },
+    {
+      "id": "ep7",
+      "text": "# Episódio 07\nQuelaag, Ceaseless Discharge & Chaos Covenant\n→ Quelaag's Domain / Demon Ruins\n\n**Conquistas:**\n- 2º Sino Tocado ✅\n- Quelaag & Ceaseless mortos\n- Great Fireball & Great Combustion\n- Chaos Covenant + Egghead infection\n- Black Hemmed Set (Robe da Morte)\n- Level 30+ (Att 19 = 5 slots completados)\n\n**⚠️ ALERTA CRÍTICO EP.08:**\nLAUTREC SOLTO! Matar Lautrec no início do Ep.08 para salvar Anastacia (Ring of FAP + FK Soul).\n\n**Build:** Pyro/Dex - Core Completa!",
+      "type": "text",
+      "x": 5400,
+      "y": 200,
+      "width": 400,
+      "height": 500,
+      "color": "1"
+    },
+    {
+      "id": "ep8",
+      "text": "# Episódio 08\nRetorno Asylum & Blighttown Superior\n→ Firelink\n\n**Conquistas:**\n- Stray Demon Morto (Titanite SLAB!)\n- Bellowing Dragoncrest Ring (Dano Pyro)\n- Crest Shield & Rusted Iron Ring\n- Peculiar Doll (Painted World acessível)\n- Farm: 7 Large Titanite Chunks\n- Lautrec matou Anastacia (Black Eye Orb pego)\n\n**⚠️ ALERTA CRÍTICO EP.09:**\nVingança! Usar Black Eye Orb em Anor Londo, salvar Anastacia e fazer upgrade da nova arma para +15!\n\n**Build:** Bellowing Ring equipado (Dano Massivo)",
+      "type": "text",
+      "x": 6300,
+      "y": 200,
+      "width": 500,
+      "height": 520,
+      "color": "5"
+    },
+    {
+      "id": "ep9",
+      "text": "# Episódio 09\nHydra, Dusk, Sen's Fortress & Iron Golem\n→ Darkroot Basin / Sen's Fortress\n\n**Conquistas:**\n- **Nova Arma:** Partizan +6 Lightning (236 atk)\n- Hydra & Iron Golem Mortos\n- Dusk de Oolacile Resgatada (Ivory Catalyst)\n- Sen's Fortress 100% Completa\n\n**⚠️ ALERTA CRÍTICO EP.10:**\nUsar Black Eye Orb em Anor Londo para matar Lautrec e reviver Anastacia antes do O&S!\n\n**Build:** Partizan + Lightning + Pyro 5 Slots",
+      "type": "text",
+      "x": 7200,
+      "y": 200,
+      "width": 400,
+      "height": 550,
+      "color": "4"
+    },
+    {
+      "id": "build-ref",
+      "text": "Build Reference\n- SL 38-40 | Vit 18 | Str 13 | End 18 | Dex 24 | Att 19 (5 slots)\n- **NOVA MAIN:** Partizan +6 Lightning (236 atk)\n- Crest Shield / Bellowing Ring / Rusted Iron Ring\n- Pyro: Great Chaos Fireball, Fireball, Comb, Great Comb, PW\n- Itens Chave: Titanite Slab, Black Eye Orb\n- ⚠️ URGENTE EP.10: Usar Black Eye Orb em Anor Londo!",
+      "type": "text",
+      "x": -600,
+      "y": 200,
+      "width": 400,
+      "height": 450,
+      "color": "3"
+    },
+    {
+      "id": "checklist",
+      "text": "100% Checklist\n- Areas: 18/22 (Sen's e Basin Completos)\n- Bosses: 9/16 (+Hydra, +Iron Golem)\n- NPCs: Dusk Resgatada!\n- Covenants: 2/9\n- FK Souls: 2/7\n- 2º Sino: ☑️ Tocado\n- Progress: Anor Londo Acessível",
+      "type": "text",
+      "x": -600,
+      "y": -400,
+      "width": 400,
+      "height": 450,
+      "color": "4"
+    },
+    {
+      "id": "map_crystal",
+      "type": "file",
+      "file": "Maps/preview_16_Crystal_Cave.jpg",
+      "x": 1033,
+      "y": -863,
+      "width": 534,
+      "height": 912
+    },
+    {
+      "id": "ep10",
+      "text": "# Episódio 10\nSen's Fortress, Iron Golem, Logan, Anor Londo Prep",
+      "type": "text",
+      "x": 8100,
+      "y": 200,
+      "width": 400,
+      "height": 500,
+      "color": "6"
+    },
+    {
+      "id": "ep11",
+      "type": "text",
+      "text": "# Episódio 11\nEpisódio 11 - Anor Londo Exploração Parte 1, Silver Knights, Solaire & Preparação Ornstein & Smough",
+      "x": 9000,
+      "y": 200,
+      "width": 400,
+      "height": 500,
+      "color": 6
+    },
+    {
+      "id": "ep12",
+      "type": "text",
+      "text": "# Episódio 12\nEpisódio 12: Ornstein e Smough + Coop Mais Que Gostoso",
+      "x": 9900,
+      "y": 200,
+      "width": 400,
+      "height": 500,
+      "color": 6
+    },
+    {
+      "id": "future_ep13",
+      "type": "text",
+      "text": "# FUTURO: Episódio 13\n*Aguardando processamento...*",
+      "x": 10800,
+      "y": 200,
+      "width": 400,
+      "height": 500,
+      "color": 6
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_ep1_ep2",
+      "fromNode": "ep1",
+      "fromSide": "right",
+      "toNode": "ep2",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "e_ep2_ep3",
+      "fromNode": "ep2",
+      "fromSide": "right",
+      "toNode": "ep3",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "e_ep3_ep4",
+      "fromNode": "ep3",
+      "fromSide": "right",
+      "toNode": "ep4",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "e_ep4_ep5",
+      "fromNode": "ep4",
+      "fromSide": "right",
+      "toNode": "ep5",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "e_ref_ep1",
+      "fromNode": "build-ref",
+      "fromSide": "bottom",
+      "toNode": "ep1",
+      "toSide": "top",
+      "color": "8"
+    },
+    {
+      "id": "e_ref_ep5",
+      "fromNode": "ep1",
+      "fromSide": "top",
+      "toNode": "checklist",
+      "toSide": "bottom",
+      "color": "8"
+    },
+    {
+      "id": "e_ep1_map_asylum",
+      "fromNode": "ep1",
+      "fromSide": "top",
+      "toNode": "map_asylum",
+      "toSide": "bottom",
+      "color": "2"
+    },
+    {
+      "id": "e_ep1_map_firelink",
+      "fromNode": "ep1",
+      "fromSide": "top",
+      "toNode": "map_firelink",
+      "toSide": "bottom",
+      "color": "2"
+    },
+    {
+      "id": "e_ep1_map_burg",
+      "fromNode": "ep1",
+      "fromSide": "top",
+      "toNode": "map_burg",
+      "toSide": "bottom",
+      "color": "2"
+    },
+    {
+      "id": "e_ep2_map_parish",
+      "fromNode": "ep2",
+      "fromSide": "top",
+      "toNode": "map_parish",
+      "toSide": "bottom",
+      "color": "1"
+    },
+    {
+      "id": "e_ep3_map_burg",
+      "fromNode": "ep3",
+      "fromSide": "top",
+      "toNode": "map_burg",
+      "toSide": "bottom",
+      "color": "4"
+    },
+    {
+      "id": "e_ep4_map_depths",
+      "fromNode": "ep4",
+      "fromSide": "top",
+      "toNode": "map_depths",
+      "toSide": "bottom",
+      "color": "5"
+    },
+    {
+      "id": "e_ep4_map_parish",
+      "fromNode": "ep4",
+      "fromSide": "top",
+      "toNode": "map_parish",
+      "toSide": "bottom",
+      "color": "5"
+    },
+    {
+      "id": "e_ep5_map_depths",
+      "fromNode": "ep5",
+      "fromSide": "top",
+      "toNode": "map_depths",
+      "toSide": "bottom",
+      "color": "4"
+    },
+    {
+      "id": "e_dep_ep3_ep4",
+      "fromNode": "ep3",
+      "fromSide": "bottom",
+      "toNode": "ep4",
+      "toSide": "bottom",
+      "color": "3",
+      "label": "Key to Depths"
+    },
+    {
+      "id": "e_ep5_future",
+      "fromNode": "ep5",
+      "fromSide": "right",
+      "toNode": "ep6",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "e_ep6_future",
+      "fromNode": "ep6",
+      "fromSide": "right",
+      "toNode": "ep7",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "e_ep6_map_blighttown",
+      "fromNode": "ep6",
+      "fromSide": "top",
+      "toNode": "map_blighttown",
+      "toSide": "bottom",
+      "color": "3"
+    },
+    {
+      "id": "e_ep6_map_depths",
+      "fromNode": "ep6",
+      "fromSide": "top",
+      "toNode": "map_depths",
+      "toSide": "bottom",
+      "color": "3"
+    },
+    {
+      "id": "e_ep6_map_firelink",
+      "fromNode": "ep6",
+      "fromSide": "top",
+      "toNode": "map_firelink",
+      "toSide": "bottom",
+      "color": "3"
+    },
+    {
+      "id": "e_ep6_map_parish",
+      "fromNode": "ep6",
+      "fromSide": "top",
+      "toNode": "map_parish",
+      "toSide": "bottom",
+      "color": "3"
+    },
+    {
+      "id": "e_ep7_map_blighttown",
+      "fromNode": "ep7",
+      "fromSide": "top",
+      "toNode": "map_blighttown",
+      "toSide": "bottom",
+      "color": "1"
+    },
+    {
+      "id": "e_ep7_future",
+      "fromNode": "ep7",
+      "fromSide": "right",
+      "toNode": "ep8",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "e_ep8_future",
+      "fromNode": "ep8",
+      "fromSide": "right",
+      "toNode": "ep9",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "e_ep8_map_asylum",
+      "fromNode": "ep8",
+      "fromSide": "top",
+      "toNode": "map_asylum",
+      "toSide": "bottom",
+      "color": "5"
+    },
+    {
+      "id": "e_ep8_map_blighttown",
+      "fromNode": "ep8",
+      "fromSide": "top",
+      "toNode": "map_blighttown",
+      "toSide": "bottom",
+      "color": "5"
+    },
+    {
+      "id": "e_ep8_map_firelink",
+      "fromNode": "ep8",
+      "fromSide": "top",
+      "toNode": "map_firelink",
+      "toSide": "bottom",
+      "color": "5"
+    },
+    {
+      "id": "e_ep9_future",
+      "fromNode": "ep9",
+      "fromSide": "right",
+      "toNode": "ep10",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "e_ep9_map_sens",
+      "fromNode": "ep9",
+      "fromSide": "top",
+      "toNode": "map_sens",
+      "toSide": "bottom",
+      "color": "4"
+    },
+    {
+      "id": "e_ep9_map_basin",
+      "fromNode": "ep9",
+      "fromSide": "top",
+      "toNode": "map_basin",
+      "toSide": "bottom",
+      "color": "4"
+    },
+    {
+      "id": "e_ep10_ep11",
+      "fromNode": "ep10",
+      "fromSide": "right",
+      "toNode": "ep11",
+      "toSide": "left",
+      "color": 6
+    },
+    {
+      "id": "e_ep11_ep12",
+      "fromNode": "ep11",
+      "fromSide": "right",
+      "toNode": "ep12",
+      "toSide": "left",
+      "color": 6
+    },
+    {
+      "id": "e_ep12_future_ep13",
+      "fromNode": "ep12",
+      "fromSide": "right",
+      "toNode": "future_ep13",
+      "toSide": "left",
+      "color": 6
+    }
+  ],
+  "scale": 0.8
 }
