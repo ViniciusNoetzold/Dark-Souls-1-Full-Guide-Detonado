@@ -7,7 +7,8 @@ import {
   Settings, 
   Zap,
   Minimize2,
-  Sparkles
+  Sparkles,
+  X
 } from 'lucide-react';
 import { RoadguideStage, BossData } from '../types';
 import { BonfireAnimated } from './BonfireAnimated';
@@ -95,7 +96,7 @@ export const HeaderNav: React.FC<HeaderNavProps> = ({
   ];
 
   return (
-    <header className="bg-[#0e0e0e]/95 backdrop-blur-md border-b border-[#252525] sticky top-0 z-30 select-none shadow-xl">
+    <header data-tauri-drag-region className="bg-[#0e0e0e]/95 backdrop-blur-md border-b border-[#252525] sticky top-0 z-30 select-none shadow-xl">
       <div className="max-w-7xl mx-auto px-3 sm:px-5">
         {/* Main Header Container */}
         <div className="py-2.5 flex flex-wrap items-center justify-between gap-x-4 gap-y-2.5">
@@ -171,6 +172,23 @@ export const HeaderNav: React.FC<HeaderNavProps> = ({
                 <span className="hidden sm:inline">{language === 'pt' ? 'Minimizar' : 'Minimize'}</span>
               </button>
             )}
+
+            {/* Close App Button */}
+            <button
+              id="btn-close-app"
+              onClick={async () => {
+                try {
+                  const { getCurrentWindow } = await import('@tauri-apps/api/window');
+                  getCurrentWindow().close();
+                } catch (e) {
+                  window.close();
+                }
+              }}
+              className="bg-[#181818] hover:bg-red-950 hover:border-red-500/50 hover:text-red-400 border border-[#333] text-zinc-300 px-2.5 py-1 rounded flex items-center gap-1 text-[10px] uppercase tracking-wider font-mono transition-all shadow-sm ml-1"
+              title={language === 'pt' ? "Fechar Aplicativo" : "Close App"}
+            >
+              <X className="w-3 h-3" />
+            </button>
           </div>
         </div>
 

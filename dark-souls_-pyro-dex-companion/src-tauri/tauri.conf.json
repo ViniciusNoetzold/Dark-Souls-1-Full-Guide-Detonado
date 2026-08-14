@@ -13,11 +13,11 @@
     "windows": [
       {
         "title": "Dark Souls Companion",
-        "width": 300,
-        "height": 400,
-        "x": 20,
-        "y": 20,
-        "resizable": false,
+        "width": 1200,
+        "height": 800,
+        "x": 100,
+        "y": 100,
+        "resizable": true,
         "fullscreen": false,
         "transparent": true,
         "decorations": false,

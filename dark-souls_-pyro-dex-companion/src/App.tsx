@@ -63,7 +63,7 @@ const STORAGE_KEYS = {
 const DEFAULT_SETTINGS: OverlaySettings = {
   opacity: 0.95,
   backdropBlur: true,
-  overlayMode: false,
+  overlayMode: true,
   nightMode: true,
   theme: 'pyromancer',
   fontFamily: 'classic',
@@ -377,18 +377,20 @@ export default function App() {
       data-theme={settings.theme || 'pyromancer'}
       data-font={settings.fontFamily || 'classic'}
       className={`min-h-screen transition-all duration-200 selection:bg-[var(--theme-accent)] selection:text-black font-sans ${
-        settings.nightMode ? 'bg-[#0a0a0a] text-zinc-200' : 'bg-[#111] text-zinc-200'
+        settings.overlayMode ? 'bg-transparent text-zinc-200' : (settings.nightMode ? 'bg-[#0a0a0a] text-zinc-200' : 'bg-[#111] text-zinc-200')
       }`}
       style={{
         opacity: isHUDOpen ? settings.opacity : 1,
-        backdropFilter: settings.backdropBlur ? 'blur(12px)' : 'none',
+        backdropFilter: (!settings.overlayMode && settings.backdropBlur) ? 'blur(12px)' : 'none',
       }}
     >
       {/* Background Ambience Subtle Glow */}
-      <div className="fixed inset-0 pointer-events-none overflow-hidden z-0 opacity-20">
-        <div className="absolute top-1/4 left-1/2 -translate-x-1/2 w-[600px] h-[600px] bg-[var(--theme-accent)]/5 rounded-full blur-[140px]" />
-        <div className="absolute bottom-10 left-10 w-[400px] h-[400px] bg-orange-600/5 rounded-full blur-[120px]" />
-      </div>
+      {!settings.overlayMode && (
+        <div className="fixed inset-0 pointer-events-none overflow-hidden z-0 opacity-20">
+          <div className="absolute top-1/4 left-1/2 -translate-x-1/2 w-[600px] h-[600px] bg-[var(--theme-accent)]/5 rounded-full blur-[140px]" />
+          <div className="absolute bottom-10 left-10 w-[400px] h-[400px] bg-orange-600/5 rounded-full blur-[120px]" />
+        </div>
+      )}
 
       {/* Main HUD Container */}
       <AnimatePresence>
