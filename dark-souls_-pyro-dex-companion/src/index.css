@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Comic+Neue:wght@400;700&family=Fredoka:wght@300..700&family=Inter:wght@100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Quicksand:wght@300..700&display=swap');
+@import "tailwindcss";
+
+
+
+[data-font="classic"] {
+  --font-sans: ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--theme-font-serif);
+  --font-mono: var(--theme-font-mono);
+}
+
+[data-font="clean"] {
+  --font-sans: 'Inter', sans-serif;
+  --font-serif: 'Inter', sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, monospace;
+}
+
+[data-font="soft"] {
+  --font-sans: 'Nunito', sans-serif;
+  --font-serif: 'Quicksand', sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, monospace;
+}
+
+[data-font="cartoon"] {
+  --font-sans: 'Fredoka', sans-serif;
+  --font-serif: 'Fredoka', sans-serif;
+  --font-mono: 'Comic Neue', cursive;
+}
+
+
+@theme {
+  --font-sans: var(--font-sans);
+  --font-serif: var(--font-serif);
+  --font-mono: var(--font-mono);
+}
+
+
+:root {
+  --theme-accent: #ff4e00;
+  --theme-accent-muted: #d97706;
+  --theme-font-serif: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  --theme-font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+[data-theme="sorcerer"] {
+  --theme-accent: #3b82f6;
+  --theme-accent-muted: #2563eb;
+  --theme-font-serif: "Cinzel", "Trajan Pro", "Baskerville", serif;
+  --theme-font-mono: "Fira Code", monospace;
+}
+
+[data-theme="cleric"] {
+  --theme-accent: #fbbf24;
+  --theme-accent-muted: #d97706;
+  --theme-font-serif: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  --theme-font-mono: "Courier Prime", monospace;
+}
+
+[data-theme="abyssal"] {
+  --theme-accent: #a855f7;
+  --theme-accent-muted: #9333ea;
+  --theme-font-serif: "Garamond", "Times New Roman", serif;
+  --theme-font-mono: "VT323", monospace;
+}
+
+[data-theme="hollow"] {
+  --theme-accent: #a1a1aa;
+  --theme-accent-muted: #71717a;
+  --theme-font-serif: "Courier New", monospace;
+  --theme-font-mono: "Courier", monospace;
+}
+
+
+/* Dark Souls Aesthetic Custom Scrollbars */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #2e2e2e #0a0a0a;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0d0d0d;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2a2a2a;
+  border-radius: 9999px;
+  border: 1px solid #1a1a1a;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--theme-accent);
+  box-shadow: 0 0 8px rgba(255, 78, 0, 0.5);
+}
+
+::-webkit-scrollbar-corner {
+  background: #0d0d0d;
+}
+
+/* Utility to hide scrollbar while keeping scroll functionality */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Markdown Styles for Tatica DS View */
+.markdown-body {
+  @apply text-sm text-zinc-300;
+}
+
+.markdown-body h1 {
+  @apply text-2xl font-serif text-white mb-6 border-b border-[#222] pb-2;
+}
+
+.markdown-body h2 {
+  @apply text-xl font-serif text-[var(--theme-accent)] mt-8 mb-4;
+}
+
+.markdown-body h3 {
+  @apply text-lg font-serif text-white mt-6 mb-3;
+}
+
+.markdown-body p {
+  @apply mb-4 leading-relaxed;
+}
+
+.markdown-body ul {
+  @apply list-disc list-inside mb-4 space-y-1;
+}
+
+.markdown-body li {
+  @apply ml-2;
+}
+
+.markdown-body table {
+  @apply w-full mb-6 border-collapse text-xs md:text-sm font-mono;
+}
+
+.markdown-body th {
+  @apply bg-[#151515] border border-[#333] text-zinc-300 font-bold p-2 text-left uppercase tracking-wider;
+}
+
+.markdown-body td {
+  @apply border border-[#222] p-2 bg-[#0d0d0d];
+}
+
+.markdown-body blockquote {
+  @apply border-l-2 border-[var(--theme-accent)] bg-[#151515] italic pl-4 py-2 pr-2 mb-4 text-zinc-400;
+}
+
+.markdown-body strong {
+  @apply text-white font-bold;
+}
+
+.markdown-body hr {
+  @apply border-[#222] my-8;
+}

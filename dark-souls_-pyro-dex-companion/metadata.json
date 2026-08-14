@@ -1,0 +1,6 @@
+{
+  "name": "Dark Souls: Pyro-Dex Companion",
+  "description": "Roadguide interativo para run de Piromante + Destreza em Dark Souls com overlay HUD flutuante, contador de mortes por chefe, notas de exploração e sincronização de conquistas Steam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
