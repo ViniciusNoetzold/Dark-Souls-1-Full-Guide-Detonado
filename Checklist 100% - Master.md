@@ -29,14 +29,14 @@
 | **Gwyn, Lord of Cinder** | Kiln of the First Flame | — | ⏳ Pendente | Parry/riposte / Power Within |
 
 ### Bosses Opcionais / DLC
-| Boss | Área | Requisito | Status |
-|------|------|-----------|--------|
-| Dark Sun Gwyndolin | Anor Londo (Darkmoon Tomb) | Covenant / Ring | ⬜ |
-| Crossbreed Priscilla | Painted World of Ariamis | Peculiar Doll | ⬜ **Acessível (Ep.08)** |
-| Sanctuary Guardian | Oolacile Sanctuary (DLC) | Artorias DLC | ⬜ |
-| **Artorias the Abysswalker** | Oolacile Township (DLC) | Artorias DLC | ⬜ |
-| Manus, Father of the Abyss | Oolacile Township (DLC) | Artorias DLC | ⬜ |
-| Black Dragon Kalameet | Royal Wood (DLC) | Artorias DLC + Gough | ⬜ |
+| Boss                         | Área                       | Requisito            | Status                  |
+| ---------------------------- | -------------------------- | -------------------- | ----------------------- |
+| Dark Sun Gwyndolin           | Anor Londo (Darkmoon Tomb) | Covenant / Ring      | ⬜                       |
+| Crossbreed Priscilla         | Painted World of Ariamis   | Peculiar Doll        | ⬜ **Acessível (Ep.08)** |
+| Sanctuary Guardian           | Oolacile Sanctuary (DLC)   | Artorias DLC         | ⬜                       |
+| **Artorias the Abysswalker** | Oolacile Township (DLC)    | Artorias DLC         | ⬜                       |
+| Manus, Father of the Abyss   | Oolacile Township (DLC)    | Artorias DLC         | ⬜                       |
+| Black Dragon Kalameet        | Royal Wood (DLC)           | Artorias DLC + Gough | ⬜                       |
 
 ---
 
