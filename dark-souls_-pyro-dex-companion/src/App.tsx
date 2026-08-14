@@ -48,6 +48,7 @@ import { SolaireSunAnimated } from './components/SolaireSunAnimated';
 import { FireKeeperAnimated } from './components/FireKeeperAnimated';
 import { EstusFlaskAnimated } from './components/EstusFlaskAnimated';
 import { ArtoriasAndSifAnimated } from './components/ArtoriasAndSifAnimated';
+import { resolveVanity, getPlayerSummary, getAchievements } from './utils/steamApi';
 import { audioSynth } from './utils/audioSynth';
 
 const STORAGE_KEYS = {
@@ -294,16 +295,14 @@ export default function App() {
       // 1. Resolve vanity URL if needed
       let steamIdToUse = steamInput.trim();
       if (!/^\d{17}$/.test(steamIdToUse)) {
-        const vanityRes = await fetch(`/api/steam/resolve-vanity?vanity=${encodeURIComponent(steamIdToUse)}`);
-        const vanityData = await vanityRes.json();
+        const vanityData = await resolveVanity(steamIdToUse);
         if (vanityData.steamId) {
           steamIdToUse = vanityData.steamId;
         }
       }
 
       // 2. Fetch Player Summary
-      const summaryRes = await fetch(`/api/steam/player-summary?steamId=${encodeURIComponent(steamIdToUse)}`);
-      const summaryData = await summaryRes.json();
+      const summaryData = await getPlayerSummary(steamIdToUse);
 
       if (summaryData) {
         setSteamProfile({
@@ -320,13 +319,12 @@ export default function App() {
       }
 
       // 3. Fetch Achievements
-      const achRes = await fetch(`/api/steam/achievements?steamId=${encodeURIComponent(steamIdToUse)}&appId=570940`);
-      const achData = await achRes.json();
+      const achData = await getAchievements(steamIdToUse, 570940);
 
-      if (achData.achievements && Array.isArray(achData.achievements) && achData.achievements.length > 0) {
+      if (achData && Array.isArray(achData) && achData.length > 0) {
         setAchievements((prev) =>
           prev.map((localAch) => {
-            const remote = achData.achievements.find(
+            const remote = achData.find(
               (r: any) => r.apiname.toUpperCase() === localAch.apiname.toUpperCase()
             );
             return remote ? { ...localAch, unlocked: remote.achieved === 1 } : localAch;
