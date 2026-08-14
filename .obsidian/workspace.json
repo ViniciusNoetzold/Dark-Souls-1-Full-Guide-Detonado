@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 571.5
   },
   "right": {
     "id": "1277ccb436fe8795",
@@ -190,6 +190,17 @@
   },
   "active": "b68f6d87e4ca2b9d",
   "lastOpenFiles": [
+    "Recursos/Itens Essenciais Início de Jogo.md",
+    "Recursos/World map-Dark-Souls-Map-1940x1931.png",
+    "Recursos/Roadmap_Episodios_01_02_03_04.canvas",
+    "Recursos/CommandPalette_Spec.md",
+    "Recursos",
+    "Episódio 32 - Manus, O Pai do Abismo em Oolacile Dungeon.md",
+    "Episódios Detalhados/Episódio 32 - Manus, O Pai do Abismo em Oolacile Dungeon.md",
+    "Episódios Detalhados/Episódio 31 - Cavaleiro Artorias e Invasores Malditos.md",
+    "Episódio 31 - Cavaleiro Artorias e Invasores Malditos.md",
+    "Episódios Detalhados/Episódio 36 - Magias, Armas dos Chefões e Platina.md",
+    "Episódio 36 - Magias, Armas dos Chefões e Platina.md",
     "Episódio 35 - Matando NPCs e Lord Gwyn.md",
     "Episódios Detalhados/Episódio 35 - Matando NPCs e Lord Gwyn.md",
     "Episódio 33 - Desafio 2 Cachorros e Black Dragon Kalameet.md",
@@ -208,14 +219,6 @@
     "Episódios/Episódio 03 - Lower Undead Burg & Capra Demon.md",
     "Episódios/Episódio 01 - Início e Undead Asylum.md",
     "Episódio 11 - Anor Londo Exploracao Silver Knights Solaire & O&S Prep.md",
-    "Episódio 10 - Sen's Fortress Iron Golem Logan & Anor Londo Prep.md",
-    "Episódio 08 - Retorno Blighttown Stray Demon Lautrec e Sens Prep.md",
-    "Episódios Detalhados/Episódio 30 - DLC Artorias of the Abyss - Sanctuary Guardian.md",
-    "Episódios Detalhados/Episódio 28 - Lagartos Secretos, Chama Piromantica Máxima e Nova Arma Dex.md",
-    "Episódios Detalhados/Episódio 26 - Chaos Flame Ember e Corpo-Pacto do Dragão.md",
-    "Episódios Detalhados/Episódio 25 - The Great Hollow e Ash Lake, Dragão Imortal.md",
-    "Episódios Detalhados/Episódio 24 - Centopeia Maligna e Leito do Caos.md",
-    "Episódios Detalhados/Episódio 23 - Katanas, Demon Ruins, Chaos e Demon Firesage.md",
     "Episódios Detalhados",
     "tmp",
     "sedAfeMtD",
@@ -236,8 +239,6 @@
     "Maps/preview_Sen's_Fortress.png",
     "Maps/preview_NewLondo_map.jpg",
     "Maps/preview_FirelinkShrineMap.jpg",
-    "Maps/preview_Basin.jpg",
-    "Maps/gallery.html",
-    "Maps"
+    "Maps/gallery.html"
   ]
 }
