@@ -1,32 +1,48 @@
-# DARK SOULS DETONADO COMPLETO #32 - Manus, O Pai do Abismo em Oolacile Dungeon
+# DARK SOULS DETONADO COMPLETO #32 - MANUS, O PAI DO ABISMO EM OOLACILE DUNGEON
 
 ## Personagem (Evolução da Build)
-- **Level Inicial:** 88
-- **Level Fim da Etapa:** 92
-- **Status Atualizados:** Foco final em Vitalidade (35) para aguentar os combos insanos de Manus, e Destreza (40) no cap de scaling para maximizar o dano.
-- **Armas / Dano:** Uchigatana +15 e Chama Piromântica Ascendida +5. Dano altíssimo com o *Power Within* ativo, permitindo retirar grandes nacos da vida do boss nas raras aberturas de seus ataques. 
-- **Defesa / Magias / Utilidade:** Uso obrigatório do **Silver Pendant** (Pingente de Prata) no atalho de itens para rebater a magia negra da segunda fase. O *Dark Wood Grain Ring* é essencial para garantir mobilidade máxima e frames extras de invencibilidade (*fast roll* aprimorado).
+* **Nível:** 91
+* **Atributos Principais:**
+  * **Força:** 16
+  * **Destreza:** 40
+  * **Resistência:** 17
+  * **Conhecimento (Attunement):** 23 (Garante 6 espaços de magias)
+* **Equipamentos e Magias:**
+  * **Anéis:** Bellowing Dragoncrest Ring (para aumentar o dano das piromancias) e Dark Wood Grain Ring (para melhorar a esquiva na luta contra Manus).
+  * **Armaduras e Escudos:** Uso do set *Gold-Hemmed Black* (excelente defesa mágica) e um Escudo de Cristal (Crystal Shield) com alta estabilidade e 100% de redução física para a batalha do chefe.
+  * **Magias (Piromancias):** *Great Fireball*, *Combustion* e *Great Combustion*. Uso também do *Silver Pendant* para refletir as magias das trevas de Manus.
 
-## Exploração do Chasm of the Abyss (Dungeon de Oolacile)
-O Abismo de Oolacile é a área final e mais escura da expansão *Artorias of the Abyss*.
-- **O Caminho na Escuridão:** A navegação pelo mapa lembra muito a Tomb of the Giants, mas com inimigos diferentes. É recomendado o uso do *Sunlight Maggot* (Verme da Luz Solar) ou da magia *Cast Light*, além do próprio cuidado com os buracos.
-- **Humanities Farm:** O local é famoso por ser o melhor ponto de farming de Humanidades do jogo, devido à alta concentração dos Humanity Phantoms (fantasmas em formato de humanidade).
-- **Salvando o Lobo Sif:** Antes de encarar o chefe, exploramos uma área lateral escondida através de uma parede ilusória. Nela encontramos o filhote do Great Grey Wolf Sif cercado por Humanity Phantoms. Ao salvá-lo e libertá-lo (necessário o Cleansing Greatshield obtido na área anterior), Sif uiva em agradecimento e seu sinal de invocação passará a estar disponível dentro da arena do Manus.
+## Áreas Exploradas
+* **Oolacile Dungeon:** Passagem inicial e caminho em direção ao Abismo.
+* **Chasm of the Abyss (Fenda do Abismo):** Área escura e cheia de perigos, local excelente para farm de humanidades e onde encontramos o chefe do episódio.
 
-## Itens Importantes Adquiridos
-- **Black Flame (Chama Negra):** Uma piromancia brutal da escuridão, encontrada explorando os caminhos superiores da caverna. Causa um dano físico e massivo dano à estamina do inimigo em escudos, sendo essencial para a nossa build Piromante/Dex.
-- **Twin Humanities:** Coletadas ao explorar o chão inferior das cavernas e nos drops dos Humanity Phantoms.
+## NPCs Encontrados
+* **Alvina (Gata):** O espírito dela guia o jogador até uma parede ilusória.
+* **Sif, the Great Grey Wolf:** Preso atrás de uma parede ilusória, guiada por Alvina. Ao resgatá-lo, o sinal de invocação dele aparece dentro da arena do Manus.
+* **Dusk of Oolacile:** Encontrada caída no chão da arena após a derrota do Manus.
 
-## Chefão: Manus, Father of the Abyss (O Pai do Abismo)
-Manus é possivelmente o chefe mais difícil de todo o Dark Souls 1, exigindo reflexos afiados e conhecimento absoluto do moveset.
+## Itens Coletados
+* Humanidades (Farm nos "Fantasmas da Humanidade")
+* Cleansing Greatshield (Protegendo Sif)
+* Black Flame (Piromancia das Trevas)
+* White Titanite Chunk
+* White Titanite Slab (Placa de Titanita Branca)
+* "Help me!" Carving
+* Soul of a Hero
+* Soul of Manus (Derrota do chefe)
+* 10 Humanidades (Derrota do chefe)
 
-### Estratégia de Combate
-- **Fase 1 (Física):** A luta começa com ataques físicos absurdamente rápidos e agressivos. Ele usa as mãos imensas para combos pesados. A chave é manter a distância média e esperar pelo ataque em que ele estica muito o braço e a mão fica presa no chão por um segundo. Esta é a melhor abertura para golpear a mão dele com 1 ou 2 ataques fortes.
-- **Fase 2 (Magia Escura):** Quando Manus chega a cerca de 60% da vida, ele começa a usar magia do abismo. Aqui o **Silver Pendant** brilha. 
-  - *Chuva de trevas:* Spam de magia do céu. Use o Silver Pendant sucessivamente para desviar todas.
-  - *Círculo sombrio:* Esferas vêm de fora para dentro. Corra em direção a ele e ataque, ou use o Pendant.
-  - *Feixe de Escuridão:* Magia frontal letal. Esquiva para o lado é a melhor opção.
-- **Invocando Sif:** É possível invocar Sif no meio da batalha (o sinal dele fica *dentro* da arena, um pouco escondido, o que exige cuidado). Ele atrai a agressividade de Manus, oferecendo aberturas vitais para que o jogador use Piromancias de alto impacto (Great Chaos Fireball) ou recupere a vida.
+## Passo a Passo e Dicas
+1. **Oolacile Dungeon:** Prossiga com cautela. Inimigos feiticeiros dão um dano massivo com magia negra (Dark Orb e Dark Bead). Proteja-se atrás das pilastras e ataque-os de perto quando possível.
+2. **Chasm of the Abyss:** Uma área excelente para farm de humanidade através dos fantasmas pretos (humanidades). Alguns atacam, outros apenas tiram sua vida se tocarem em você. 
+3. **Resgate do Sif:** Siga as aparições espectrais de Alvina, a gata. A última aparição será na frente de uma parede ilusória. Ataque-a para revelar uma área escondida. Mate os fantasmas da humanidade ao redor de Sif para salvá-lo e pegar o **Cleansing Greatshield**.
+4. **Coletando Magias e Itens:** Explore o Chasm of the Abyss descendo pelos caminhos seguros. Pegue a piromancia **Black Flame**, a **White Titanite Slab** e as pedras de entalhe (como o *"Help me!" Carving*).
 
-## Próximos Passos
-Com o Pai do Abismo derrotado e a Princesa Dusk salva, a DLC "Artorias of the Abyss" é dada como concluída do ponto de vista de lore, restando apenas limpar Kalameet (se ainda não o fez) e avançar para o fim do jogo-base na Kiln of the First Flame.
+## Chefe: Manus, Father of the Abyss (O Pai do Abismo)
+* **Preparação:** Equipe armaduras com alta defesa mágica (*Gold-Hemmed Black Set*) e um bom escudo de 100% defesa física (como um escudo de cristal ou escudo com alta estabilidade). O **Silver Pendant** (Pingente de Prata) é essencial e deve ficar nos seus itens de uso rápido para dissipar a magia negra que ele invocar.
+* **Invocação:** O sinal de invocação do **Sif** está *dentro* da arena de Manus (caso você o tenha salvado). Invoque-o se precisar de uma distração extra.
+* **Estratégia:**
+  * O braço esquerdo dele é o mais perigoso e esticado. Foque-se em punir os ataques desse braço quando ele bater no chão.
+  * Ele tem um combo mortal de 5 acertos, afaste-se e defenda-se, tentando bater apenas quando ele finalizar a sequência.
+  * Mantenha a guarda alta, e no momento em que ele recuar para soltar o granizo mágico (chuva, anel fechando, ou rajada reta), spamme a utilização do **Silver Pendant** para criar uma barreira de força ao redor do seu personagem.
+  * Tenha paciência: ataque uma vez ou duas (de preferência as mãos/braços esticados dele) e fuja.
