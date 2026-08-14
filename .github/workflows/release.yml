@@ -27,12 +27,14 @@ jobs:
         uses: dtolnay/rust-toolchain@stable
 
       - name: install frontend dependencies
+        working-directory: ./dark-souls_-pyro-dex-companion
         run: npm install
 
       - uses: tauri-apps/tauri-action@v0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          projectPath: ./dark-souls_-pyro-dex-companion
           tagName: app-v__VERSION__
           releaseName: 'Dark Souls Companion v__VERSION__'
           releaseBody: 'See the assets to download this version and install.'
