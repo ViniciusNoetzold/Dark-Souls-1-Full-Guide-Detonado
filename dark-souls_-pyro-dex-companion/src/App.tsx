@@ -723,6 +723,26 @@ export default function App() {
         )}
       </AnimatePresence>
 
+      {/* Resize Handle for Windowed Mode */}
+      {!settings.overlayMode && (
+        <div
+          className="fixed bottom-0 right-0 w-6 h-6 cursor-se-resize z-50 flex items-end justify-end p-1 opacity-50 hover:opacity-100"
+          onPointerDown={async (e) => {
+            if (e.button !== 0) return;
+            try {
+              const { getCurrentWindow } = await import('@tauri-apps/api/window');
+              await getCurrentWindow().startResizing('bottomRight');
+            } catch (err) {
+              console.error(err);
+            }
+          }}
+        >
+          <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 0L0 12H12V0Z" fill="currentColor" className="text-zinc-500" />
+          </svg>
+        </div>
+      )}
+
       {/* Floating Virtual Pet / Companion Widget (Always accessible) */}
       <CompanionPet
         companionType={settings.companionType}

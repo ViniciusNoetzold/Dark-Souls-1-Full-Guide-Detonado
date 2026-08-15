@@ -7,6 +7,7 @@ import {
   Settings, 
   Zap,
   Minimize2,
+  Maximize2,
   Sparkles,
   X
 } from 'lucide-react';
@@ -160,6 +161,26 @@ export const HeaderNav: React.FC<HeaderNavProps> = ({
               </button>
             )}
 
+            {/* Toggle Fullscreen Button */}
+            <button
+              id="btn-toggle-fullscreen"
+              onClick={async () => {
+                try {
+                  const { getCurrentWindow } = await import('@tauri-apps/api/window');
+                  const win = getCurrentWindow();
+                  const isFullscreen = await win.isFullscreen();
+                  await win.setFullscreen(!isFullscreen);
+                } catch (e) {
+                  console.error(e);
+                }
+              }}
+              className="bg-[#181818] hover:bg-[#222] hover:border-[var(--theme-accent)]/50 border border-[#333] text-zinc-300 px-2.5 py-1 rounded flex items-center gap-1 text-[10px] uppercase tracking-wider font-mono transition-all shadow-sm"
+              title={language === 'pt' ? "Tela Cheia / Modo Janela" : "Fullscreen / Windowed"}
+            >
+              <Maximize2 className="w-3 h-3 text-[var(--theme-accent)]" />
+              <span className="hidden sm:inline">{language === 'pt' ? 'Tela Cheia' : 'Fullscreen'}</span>
+            </button>
+
             {/* Minimize HUD Button */}
             {onCloseHUD && (
               <button
@@ -169,7 +190,7 @@ export const HeaderNav: React.FC<HeaderNavProps> = ({
                 title={language === 'pt' ? "Minimizar HUD para o Pet Flutuante" : "Minimize HUD to Floating Pet"}
               >
                 <Minimize2 className="w-3 h-3 text-[var(--theme-accent)]" />
-                <span className="hidden sm:inline">{language === 'pt' ? 'Minimizar' : 'Minimize'}</span>
+                <span className="hidden sm:inline">{language === 'pt' ? 'Pet' : 'Pet'}</span>
               </button>
             )}
 
